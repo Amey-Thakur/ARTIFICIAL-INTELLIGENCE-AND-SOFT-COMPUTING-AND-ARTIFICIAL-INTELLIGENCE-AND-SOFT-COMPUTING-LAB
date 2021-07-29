@@ -5,4 +5,4 @@
  
    >Artificial Intelligence & Soft Computing Lab
 
-  - AI&SC [Experiment - 1](https://github.com/Amey-Thakur/ARTIFICIAL-INTELLIGENCE-AND-SOFT-COMPUTING-AND-ARTIFICIAL-INTELLIGENCE-AND-SOFT-COMPUTING-LAB/blob/main/Experiments/AMEY_B-50_AI%26SC_EXPERIMENT-1.pdf)
+  - AI&SC Lab [Experiment - 1](https://github.com/Amey-Thakur/ARTIFICIAL-INTELLIGENCE-AND-SOFT-COMPUTING-AND-ARTIFICIAL-INTELLIGENCE-AND-SOFT-COMPUTING-LAB/blob/main/Experiments/AMEY_B-50_AI%26SC_EXPERIMENT-1.pdf)
