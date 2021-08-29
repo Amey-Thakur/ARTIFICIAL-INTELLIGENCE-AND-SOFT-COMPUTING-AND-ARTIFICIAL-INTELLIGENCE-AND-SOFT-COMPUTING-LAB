@@ -1,0 +1,58 @@
+@relation Flowers
+
+@attribute Type	      {Lilies, Orchids, Roses, Tulips}
+@attribute Color      {Red,Yellow,Blue}
+@attribute Feature    {Fresh,Luster,Vibrance,Strong}
+@attribute InStock    {Yes,No}
+
+@data
+Lilies		Red	Fresh	   Yes
+Orchids		Blue	Luster	   Yes
+Orchids		Yellow	Fresh	   Yes
+Tulips		Red	Strong     No
+Lilies		Yellow	Vibrance   Yes
+Tulips		Red	Fresh	   No
+Roses		Yellow	Strong     No
+Roses		Blue	Luster	   Yes
+Lilies		Blue	Strong     Yes
+Orchids		Red	Vibrance   Yes	
+Roses		Yellow	Fresh	   Yes
+Tulips		Red	Luster	   No
+Tulips		Yellow	Strong     No
+Roses		Blue	Vibrance   Yes
+Orchids		Blue	Luster     Yes
+Orchids		Red	Strong     No	
+Lilies		Blue	Fresh	   Yes
+Tulips		Yellow	Vibrance   No
+Roses		Red	Luster     Yes
+Roses		Yellow	Strong     No
+Lilies		Red	Vibrance   Yes
+Orchids		Blue	Fresh	   Yes	
+Lilies		Red	Fresh	   Yes
+Tulips		Yellow	Vibrance   No
+Roses		Blue	Luster     Yes
+Roses		Red	Strong     No
+Lilies		Red	Luster     Yes
+Orchids		Yellow	Fresh	   Yes	
+Tulips		Red	Luster	   No
+Roses		Blue	Fresh	   Yes
+Lilies		Blue	Fresh	   Yes
+Lilies		Red	Strong     No
+Orchids		Red	Fresh	   Yes
+Tulips		Yellow	Vibrance   No
+Orchids		Blue	Luster	   Yes
+Tulips		Yellow	Strong     No
+Lilies		Red	Vibrance   Yes
+Tulips		Red	Luster	   No
+Roses		Blue	Strong     No
+Orchids		Blue	Vibrance   Yes	
+Orchids		Red	Vibrance   Yes	
+Roses		Yellow	Fresh	   Yes
+Tulips		Blue	Luster	   No
+Lilies		Yellow	Strong     No
+Roses		Red	Vibrance   Yes
+Orchids		Blue	Luster     Yes
+Tulips		Red	Fresh      No	
+Lilies		Blue	Strong     No
+Tulips		Yellow	Luster	   No
+Orchids		Red	Luster     Yes
