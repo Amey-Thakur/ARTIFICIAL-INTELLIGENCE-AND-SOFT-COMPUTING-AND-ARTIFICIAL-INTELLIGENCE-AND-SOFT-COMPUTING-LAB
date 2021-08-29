@@ -1,0 +1,79 @@
+=== Run information ===
+
+Scheme:       weka.classifiers.meta.AttributeSelectedClassifier -E "weka.attributeSelection.CfsSubsetEval -P 1 -E 1" -S "weka.attributeSelection.BestFirst -D 1 -N 5" -W weka.classifiers.rules.ZeroR
+Relation:     Flowers
+Instances:    50
+Attributes:   4
+              Type
+              Color
+              Feature
+              InStock
+Test mode:    10-fold cross-validation
+
+=== Classifier model (full training set) ===
+
+AttributeSelectedClassifier:
+
+
+
+=== Attribute Selection on all input data ===
+
+Search Method:
+	Best first.
+	Start set: no attributes
+	Search direction: forward
+	Stale search after 5 node expansions
+	Total number of subsets evaluated: 8
+	Merit of best subset found:    0.341
+
+Attribute Subset Evaluator (supervised, Class (nominal): 4 InStock):
+	CFS Subset Evaluator
+	Including locally predictive attributes
+
+Selected attributes: 1,2,3 : 3
+                     Type
+                     Color
+                     Feature
+
+
+Header of reduced data:
+@relation Flowers-weka.filters.unsupervised.attribute.Remove-V-R1-4
+
+@attribute Type {Lilies,Orchids,Roses,Tulips}
+@attribute Color {Red,Yellow,Blue}
+@attribute Feature {Fresh,Luster,Vibrance,Strong}
+@attribute InStock {Yes,No}
+
+@data
+
+
+Classifier Model
+ZeroR predicts class value: Yes
+
+Time taken to build model: 0 seconds
+
+=== Stratified cross-validation ===
+=== Summary ===
+
+Correctly Classified Instances          29               58      %
+Incorrectly Classified Instances        21               42      %
+Kappa statistic                          0     
+Mean absolute error                      0.4885
+Root mean squared error                  0.4944
+Relative absolute error                100      %
+Root relative squared error            100      %
+Total Number of Instances               50     
+
+=== Detailed Accuracy By Class ===
+
+                 TP Rate  FP Rate  Precision  Recall   F-Measure  MCC      ROC Area  PRC Area  Class
+                 1.000    1.000    0.580      1.000    0.734      ?        0.463     0.568     Yes
+                 0.000    0.000    ?          0.000    ?          ?        0.463     0.403     No
+Weighted Avg.    0.580    0.580    ?          0.580    ?          ?        0.463     0.498     
+
+=== Confusion Matrix ===
+
+  a  b   <-- classified as
+ 29  0 |  a = Yes
+ 21  0 |  b = No
+

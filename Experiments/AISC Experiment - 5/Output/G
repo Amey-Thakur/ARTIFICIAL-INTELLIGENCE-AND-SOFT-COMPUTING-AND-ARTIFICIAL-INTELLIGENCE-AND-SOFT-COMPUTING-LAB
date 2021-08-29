@@ -1,0 +1,108 @@
+=== Run information ===
+
+Scheme:       weka.classifiers.meta.AttributeSelectedClassifier -E "weka.attributeSelection.ClassifierAttributeEval -execution-slots 1 -B weka.classifiers.rules.ZeroR -F 5 -T 0.01 -R 1 -E DEFAULT --" -S "weka.attributeSelection.Ranker -T -1.7976931348623157E308 -N -1" -W weka.classifiers.bayes.NaiveBayes
+Relation:     Flowers
+Instances:    50
+Attributes:   4
+              Type
+              Color
+              Feature
+              InStock
+Test mode:    10-fold cross-validation
+
+=== Classifier model (full training set) ===
+
+AttributeSelectedClassifier:
+
+
+
+=== Attribute Selection on all input data ===
+
+Search Method:
+	Attribute ranking.
+
+Attribute Evaluator (supervised, Class (nominal): 4 InStock):
+	Classifier feature evaluator 
+
+	Using 	Wrapper Subset Evaluator
+	Learning scheme: weka.classifiers.rules.ZeroR
+	Scheme options: 
+	Subset evaluation: classification accuracy
+	Number of folds for accuracy estimation: 5
+
+
+Ranked attributes:
+  0  3 Feature
+  0  2 Color
+  0  1 Type
+
+Selected attributes: 3,2,1 : 3
+
+
+Header of reduced data:
+@relation 'Flowers-weka.filters.unsupervised.attribute.Remove-V-R3,2,1,4'
+
+@attribute Type {Lilies,Orchids,Roses,Tulips}
+@attribute Color {Red,Yellow,Blue}
+@attribute Feature {Fresh,Luster,Vibrance,Strong}
+@attribute InStock {Yes,No}
+
+@data
+
+
+Classifier Model
+Naive Bayes Classifier
+
+                Class
+Attribute         Yes     No
+               (0.58) (0.42)
+=============================
+Type
+  Lilies          10.0    4.0
+  Orchids         13.0    2.0
+  Roses            9.0    5.0
+  Tulips           1.0   14.0
+  [total]         33.0   25.0
+
+Color
+  Red             12.0   10.0
+  Yellow           6.0   10.0
+  Blue            14.0    4.0
+  [total]         32.0   24.0
+
+Feature
+  Fresh           12.0    3.0
+  Luster          10.0    6.0
+  Vibrance         9.0    4.0
+  Strong           2.0   12.0
+  [total]         33.0   25.0
+
+
+
+Time taken to build model: 0.01 seconds
+
+=== Stratified cross-validation ===
+=== Summary ===
+
+Correctly Classified Instances          47               94      %
+Incorrectly Classified Instances         3                6      %
+Kappa statistic                          0.876 
+Mean absolute error                      0.1762
+Root mean squared error                  0.2366
+Relative absolute error                 36.0667 %
+Root relative squared error             47.8634 %
+Total Number of Instances               50     
+
+=== Detailed Accuracy By Class ===
+
+                 TP Rate  FP Rate  Precision  Recall   F-Measure  MCC      ROC Area  PRC Area  Class
+                 0.966    0.095    0.933      0.966    0.949      0.877    0.994     0.996     Yes
+                 0.905    0.034    0.950      0.905    0.927      0.877    0.994     0.991     No
+Weighted Avg.    0.940    0.070    0.940      0.940    0.940      0.877    0.994     0.994     
+
+=== Confusion Matrix ===
+
+  a  b   <-- classified as
+ 28  1 |  a = Yes
+  2 19 |  b = No
+
