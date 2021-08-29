@@ -1,0 +1,83 @@
+=== Run information ===
+
+Scheme:       weka.classifiers.meta.AttributeSelectedClassifier -E "weka.attributeSelection.CfsSubsetEval -P 1 -E 1" -S "weka.attributeSelection.BestFirst -D 1 -N 5" -W weka.classifiers.trees.RandomForest -- -P 100 -I 100 -num-slots 1 -K 0 -M 1.0 -V 0.001 -S 1
+Relation:     Flowers
+Instances:    50
+Attributes:   4
+              Type
+              Color
+              Feature
+              InStock
+Test mode:    10-fold cross-validation
+
+=== Classifier model (full training set) ===
+
+AttributeSelectedClassifier:
+
+
+
+=== Attribute Selection on all input data ===
+
+Search Method:
+	Best first.
+	Start set: no attributes
+	Search direction: forward
+	Stale search after 5 node expansions
+	Total number of subsets evaluated: 8
+	Merit of best subset found:    0.341
+
+Attribute Subset Evaluator (supervised, Class (nominal): 4 InStock):
+	CFS Subset Evaluator
+	Including locally predictive attributes
+
+Selected attributes: 1,2,3 : 3
+                     Type
+                     Color
+                     Feature
+
+
+Header of reduced data:
+@relation Flowers-weka.filters.unsupervised.attribute.Remove-V-R1-4
+
+@attribute Type {Lilies,Orchids,Roses,Tulips}
+@attribute Color {Red,Yellow,Blue}
+@attribute Feature {Fresh,Luster,Vibrance,Strong}
+@attribute InStock {Yes,No}
+
+@data
+
+
+Classifier Model
+RandomForest
+
+Bagging with 100 iterations and base learner
+
+weka.classifiers.trees.RandomTree -K 0 -M 1.0 -V 0.001 -S 1 -do-not-check-capabilities
+
+Time taken to build model: 0.01 seconds
+
+=== Stratified cross-validation ===
+=== Summary ===
+
+Correctly Classified Instances          47               94      %
+Incorrectly Classified Instances         3                6      %
+Kappa statistic                          0.876 
+Mean absolute error                      0.1188
+Root mean squared error                  0.2269
+Relative absolute error                 24.3173 %
+Root relative squared error             45.8971 %
+Total Number of Instances               50     
+
+=== Detailed Accuracy By Class ===
+
+                 TP Rate  FP Rate  Precision  Recall   F-Measure  MCC      ROC Area  PRC Area  Class
+                 0.966    0.095    0.933      0.966    0.949      0.877    0.989     0.993     Yes
+                 0.905    0.034    0.950      0.905    0.927      0.877    0.989     0.982     No
+Weighted Avg.    0.940    0.070    0.940      0.940    0.940      0.877    0.989     0.989     
+
+=== Confusion Matrix ===
+
+  a  b   <-- classified as
+ 28  1 |  a = Yes
+  2 19 |  b = No
+
