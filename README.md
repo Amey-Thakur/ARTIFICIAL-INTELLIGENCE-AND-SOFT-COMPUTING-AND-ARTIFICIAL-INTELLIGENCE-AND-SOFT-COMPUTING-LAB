@@ -15,3 +15,9 @@
   - AI&SC Lab [Experiment - 8]
   - AI&SC Lab [Experiment - 9]
   - AI&SC Lab [Experiment - 10]
+
+## Assignments
+
+  >ARTIFICIAL INTELLIGENCE & SOFT COMPUTING
+  
+  - [Assignment - 1]
