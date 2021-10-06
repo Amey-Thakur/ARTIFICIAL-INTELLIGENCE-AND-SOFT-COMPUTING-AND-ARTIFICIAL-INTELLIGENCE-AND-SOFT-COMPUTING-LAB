@@ -20,4 +20,4 @@
 
   >ARTIFICIAL INTELLIGENCE & SOFT COMPUTING
   
-  - [Assignment - 1]
+  - [AISC Assignment - 1]
