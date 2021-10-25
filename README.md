@@ -18,7 +18,7 @@
 
 ## Assignments
 
-  >ARTIFICIAL INTELLIGENCE & SOFT COMPUTING
+  >Artificial Intelligence & Soft Computing
   
   - [AISC Assignment - 1](https://github.com/Amey-Thakur/ARTIFICIAL-INTELLIGENCE-AND-SOFT-COMPUTING-AND-ARTIFICIAL-INTELLIGENCE-AND-SOFT-COMPUTING-LAB/blob/main/Assignments/AMEY_B-50_AI%26SC_ASSIGNMENT-1.pdf)
   - [AISC Assignment - 2](https://github.com/Amey-Thakur/ARTIFICIAL-INTELLIGENCE-AND-SOFT-COMPUTING-AND-ARTIFICIAL-INTELLIGENCE-AND-SOFT-COMPUTING-LAB/blob/main/Assignments/AMEY_B-50_AI%26SC_ASSIGNMENT-2.pdf)
