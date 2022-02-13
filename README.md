@@ -51,7 +51,6 @@
 
  - [Previous Question Papers](https://github.com/Amey-Thakur/ARTIFICIAL-INTELLIGENCE-AND-SOFT-COMPUTING-AND-ARTIFICIAL-INTELLIGENCE-AND-SOFT-COMPUTING-LAB/tree/main/Question%20Papers)
 
-
 ## Exit Survey
 
  - AISC [Lab Exit Survey](https://github.com/Amey-Thakur/ARTIFICIAL-INTELLIGENCE-AND-SOFT-COMPUTING-AND-ARTIFICIAL-INTELLIGENCE-AND-SOFT-COMPUTING-LAB/blob/main/Exit%20Survey/AI%20%26%20SC-Lab-Exit-Survey.pdf)
