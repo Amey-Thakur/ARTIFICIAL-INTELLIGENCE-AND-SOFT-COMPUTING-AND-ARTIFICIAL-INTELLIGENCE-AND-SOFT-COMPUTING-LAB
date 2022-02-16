@@ -51,3 +51,5 @@
 ## Submission Report
  - [Report](https://github.com/Amey-Thakur/ARTIFICIAL-INTELLIGENCE-AND-SOFT-COMPUTING-AND-ARTIFICIAL-INTELLIGENCE-AND-SOFT-COMPUTING-LAB/blob/main/Exit%20Survey/AMEY_B-50_AI%26SC_SUBMISSION_REPORT.pdf)
  
+ 
+ 
