@@ -1,4 +1,5 @@
 # ARTIFICIAL INTELLIGENCE & SOFT COMPUTING AND ARTIFICIAL INTELLIGENCE & SOFT COMPUTING LAB
+
  👍🏻 CSC703: AISC & CSL703: AISC LAB [SEMESTER VII]
 
 ---
@@ -88,4 +89,4 @@
 
 <p align="center"> <b> 👉🏻 Subject as a part of the 7th Semester of Engineering @ University of Mumbai 👈🏻 <b> </p>
  
-<p align="center"><a href='https://github.com/Amey-Thakur/ACHIEVEMENTS#engineering', style='color: greenyellow;'> ✌🏻 Back To Engineering ✌🏻</p>
+<p align="center"><a href='https://github.com/Amey-Thakur/ENGINEERING', style='color: greenyellow;'> ✌🏻 Back To Engineering ✌🏻</p>
