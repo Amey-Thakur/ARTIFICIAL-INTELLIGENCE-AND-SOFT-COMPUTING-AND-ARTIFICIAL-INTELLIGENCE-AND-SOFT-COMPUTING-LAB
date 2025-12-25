@@ -277,7 +277,7 @@ Final semester examination submission:
 
 | # | Resource | Description | Date |
 |:-:|:---|:---|:-:|
-| 1 | [Answer Sheet](Semester%20Exam/AMEY_B-50_7278000_AISC.pdf) | AISC Semester Exam Answer Sheet | November 2021 |
+| 1 | [Answer Sheet](Semester%20Exam/AMEY_B-50_7278000_AISC.pdf) | AISC Semester Exam Answer Sheet | November 26, 2021 |
 
 ---
 
