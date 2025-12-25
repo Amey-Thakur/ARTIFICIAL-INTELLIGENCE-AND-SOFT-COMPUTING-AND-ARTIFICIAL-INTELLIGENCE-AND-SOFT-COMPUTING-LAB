@@ -244,11 +244,17 @@ The laboratory component (CSL703) focuses on hands-on implementation of AI algor
 
 ---
 
-### Case Study
+## Case Study
 
 <div align="center">
 
-  #### 🧠 [Neuro-Fuzzy: Artificial Neural Networks & Fuzzy Logic](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=0inooPgAAAAJ&citation_for_view=0inooPgAAAAJ:hqOjcs7Dif8C)
+  ### 🧠 [Neuro-Fuzzy: Artificial Neural Networks & Fuzzy Logic](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=0inooPgAAAAJ&citation_for_view=0inooPgAAAAJ:hqOjcs7Dif8C)
+
+  **Design and Implementation of a Neuro-Fuzzy System using Artificial Neural Networks and Fuzzy Logic**
+
+  [![Project](https://img.shields.io/badge/Project-Case%20Study-purple.svg)](AISC%20Lab/Experiment-10/AISC_EXPERIMENT_10_B-28_B-31_B-50.pdf)
+  [![Stack](https://img.shields.io/badge/Stack-Python%20%7C%20MATLAB-blue.svg)](AISC%20Lab/Experiment-10/AISC_EXPERIMENT_10_B-28_B-31_B-50.pdf)
+  [![Status](https://img.shields.io/badge/Status-Completed-brightgreen.svg)](AISC%20Lab/Experiment-10/AISC_EXPERIMENT_10_B-28_B-31_B-50.pdf)
 
 </div>
 
