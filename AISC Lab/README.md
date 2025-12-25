@@ -39,7 +39,7 @@
 2. **Navigate** to the experiment folder.
 3. **Run** the interpreter with the file.
 
-v**Example:**
+**Example:**
 ```bash
 cd "AISC Lab/Experiment-2"
 swipl -s Family_Tree_Concrete.pl
@@ -123,9 +123,10 @@ Identify a problem statement relevant to AI and describe its PEAS Descriptors wi
 
 **Date:** July 27, 2021
 
-| # | Document | Description |
-|:-:|:---|:---|
+| # | Document | Description | Link |
+|:-:|:---|:---|:-:|
 | — | Lab Report (PDF) | Detailed experiment report | [View](Experiment-1/AMEY_B-50_AI&SC_EXPERIMENT-1.pdf) |
+| — | Lab Report (DOCX) | Editable report file | [Download](Experiment-1/AMEY_B-50_AI&SC_EXPERIMENT-1.docx) |
 
 ---
 
@@ -143,6 +144,7 @@ A case study on Basic Programming in PROLOG and Develop a program to implement a
 | 1 | Family_Tree_Abstract.pl | Knowledge base for basic family relationships (Abstract) | [View](Experiment-2/Family_Tree_Abstract.pl) |
 | 2 | Family_Tree_Concrete.pl | Knowledge base for extended family relationships (Concrete) | [View](Experiment-2/Family_Tree_Concrete.pl) |
 | — | Lab Report (PDF) | Detailed experiment report | [View](Experiment-2/AMEY_B-50_AI&SC_EXPERIMENT-2.pdf) |
+| — | Lab Report (DOCX) | Editable report file | [Download](Experiment-2/AMEY_B-50_AI_SC_EXPERIMENT-2.docx) |
 
 ---
 
@@ -160,6 +162,7 @@ To Implement uninformed search methods using C or Java.
 | 1 | Uninformed_Search_BFS.c | Implementation of Breadth-First Search (BFS) | [View](Experiment-3/Uninformed_Search_BFS.c) |
 | 2 | Uninformed_Search_DFS.c | Implementation of Depth-First Search (DFS) | [View](Experiment-3/Uninformed_Search_DFS.c) |
 | — | Lab Report (PDF) | Detailed experiment report | [View](Experiment-3/AMEY_B-50_AI&SC_EXPERIMENT-3.pdf) |
+| — | Lab Report (DOCX) | Editable report file | [Download](Experiment-3/AMEY_B-50_AI_SC_EXPERIMENT-3.docx) |
 
 ---
 
@@ -176,6 +179,7 @@ To Implement informed A* search methods using C or Java.
 |:-:|:---|:---|:-:|
 | 1 | Informed_Search_AStar.py | Implementation of A* Algorithm | [View](Experiment-4/Informed_Search_AStar.py) |
 | — | Lab Report (PDF) | Detailed experiment report | [View](Experiment-4/AMEY_B-50_AI&SC_EXPERIMENT-4.pdf) |
+| — | Lab Report (DOCX) | Editable report file | [Download](Experiment-4/AMEY_B-50_AI_SC_EXPERIMENT-4.docx) |
 
 ---
 
@@ -194,6 +198,7 @@ Identify the Classification problem and create a Knowledge database for that pro
 | 2 | Model | Learned Models Directory | [View](Experiment-5/Model) |
 | 3 | Output | Classification Results Directory | [View](Experiment-5/Output) |
 | — | Lab Report (PDF) | Detailed experiment report | [View](Experiment-5/AMEY_B-50_AI&SC_EXPERIMENT-5.pdf) |
+| — | Lab Report (DOCX) | Editable report file | [Download](Experiment-5/AMEY_B-50_AI_SC_EXPERIMENT-5.docx) |
 
 ---
 
@@ -210,6 +215,7 @@ To implement a program to calculate cartesian product on fuzzy relation using 1.
 |:-:|:---|:---|:-:|
 | 1 | Fuzzy_Relations_Composition.c | Fuzzy Relations Composition (Max-Min & Max-Product) | [View](Experiment-6/Fuzzy_Relations_Composition.c) |
 | — | Lab Report (PDF) | Detailed experiment report | [View](Experiment-6/AMEY_B-50_AI&SC_EXPERIMENT-6.pdf) |
+| — | Lab Report (DOCX) | Editable report file | [Download](Experiment-6/AMEY_B-50_AI_SC_EXPERIMENT-6.docx) |
 
 ---
 
@@ -226,6 +232,7 @@ To Implement Fuzzy-Controller.
 |:-:|:---|:---|:-:|
 | 1 | Fuzzy_Controller.m.txt | Fuzzy Logic Controller Implementation (MATLAB) | [View](Experiment-7/Fuzzy_Controller.m.txt) |
 | — | Lab Report (PDF) | Detailed experiment report | [View](Experiment-7/AMEY_B-50_AI&SC_EXPERIMENT-7.pdf) |
+| — | Lab Report (DOCX) | Editable report file | [Download](Experiment-7/AMEY_B-50_AI_SC_EXPERIMENT-7.docx) |
 
 ---
 
@@ -243,6 +250,7 @@ To implement McCulloch Pitts Neuron Model for AND/OR functions.
 | 1 | McCulloch_Pitts_Neuron.py | McCulloch Pitts Neuron Model for AND/OR | [View](Experiment-8/McCulloch_Pitts_Neuron.py) |
 | 2 | McCulloch_Pitts_Neuron.ipynb | Interactive Jupyter Notebook | [View](Experiment-8/McCulloch_Pitts_Neuron.ipynb) |
 | — | Lab Report (PDF) | Detailed experiment report | [View](Experiment-8/AMEY_B-50_AI&SC_EXPERIMENT-8.pdf) |
+| — | Lab Report (DOCX) | Editable report file | [Download](Experiment-8/AMEY_B-50_AI_SC_EXPERIMENT-8.docx) |
 
 ---
 
@@ -259,6 +267,7 @@ To Implement Kohonen self-organizing Map- un-supervised learning algorithm.
 |:-:|:---|:---|:-:|
 | 1 | Kohonen_SOM.m.txt | Kohonen Self-Organizing Map Implementation (MATLAB) | [View](Experiment-9/Kohonen_SOM.m.txt) |
 | — | Lab Report (PDF) | Detailed experiment report | [View](Experiment-9/AMEY_B-50_AI&SC_EXPERIMENT-9.pdf) |
+| — | Lab Report (DOCX) | Editable report file | [Download](Experiment-9/AMEY_B-50_AI_SC_EXPERIMENT-9.docx) |
 
 ---
 
@@ -277,6 +286,7 @@ Case Study: Neuro-Fuzzy - Artificial Neural Networks & Fuzzy Logic.
 | 2 | AISC_EXPERIMENT_10_B-28_B-31_B-50.pdf | Group Case Study Report | [View](Experiment-10/AISC_EXPERIMENT_10_B-28_B-31_B-50.pdf) |
 | 3 | AISC_EXPERIMENT_10_PPT.pdf | Case Study Presentation | [View](Experiment-10/AISC_EXPERIMENT_10_PPT.pdf) |
 | 4 | Neuro-Fuzzy_..._&_Fuzzy Logic.pdf | Topic Reference Material | [View](Experiment-10/Neuro-Fuzzy_Artificial%20Neural%20Networks_&_Fuzzy%20Logic.pdf) |
+| — | Lab Report (DOCX) | Editable report file | [Download](Experiment-10/AMEY_B-50_AI_SC_EXPERIMENT-10.docx) |
 
 ---
 
