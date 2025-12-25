@@ -427,7 +427,9 @@ This repository represents a comprehensive collection of study materials, refere
 
 ### Acknowledgments
 
-Grateful acknowledgment to the faculty members of the Department of Computer Engineering at Terna Engineering College for their guidance and instruction in Artificial Intelligence and Soft Computing. Their clear teaching and continued support helped develop a strong understanding of intelligent systems and soft computing paradigms.
+Grateful acknowledgment to [Karan Dhiman](https://github.com/Karan-Dhiman) for his exceptional support and collaboration during the development of the Hybrid Neuro-Fuzzy System mini project for this course. Working alongside him was a truly enriching experience—his technical expertise in artificial neural networks, dedication to exploring soft computing paradigms, and enthusiasm for innovation turned every challenge into a meaningful learning opportunity. Our shared curiosity and collaborative efforts in integrating neural networks with fuzzy logic were essential to the project's success. Thank you, Karan, for being such an outstanding project partner and for all the knowledge and encouragement you shared along the way.
+
+Special thanks to the faculty members of the Department of Computer Engineering at Terna Engineering College for their guidance and instruction in Artificial Intelligence and Soft Computing. Their clear teaching and continued support helped develop a strong understanding of intelligent systems and soft computing paradigms.
 
 Special thanks to the mentors and peers whose encouragement, discussions, and support contributed meaningfully to this learning experience.
 
