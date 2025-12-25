@@ -1,3 +1,17 @@
+% =========================================================================================
+% Terna Engineering College
+% Computer Engineering Department
+% 
+% EXPERIMENT NO. 02
+% 
+% Name: Amey Mahendra Thakur    Roll No: 50
+% Class: BE-COMPS-B             Batch: B3
+% Date: 03-08-2021
+% 
+% Repository: https://github.com/Amey-Thakur/ARTIFICIAL-INTELLIGENCE-AND-SOFT-COMPUTING-AND-ARTIFICIAL-INTELLIGENCE-AND-SOFT-COMPUTING-LAB
+% Profile: https://github.com/Amey-Thakur
+% =========================================================================================
+
 male(alberto). 
 male(richard). 
 male(aaron). 
