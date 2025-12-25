@@ -99,6 +99,7 @@ The laboratory component focuses on implementing AI algorithms (Search strategie
 | `Output` | Results | Classification Accuracy Results | [View](Experiment-5/Output) |
 </details>
 
+
 <details>
 <summary><b>Experiment 6: Fuzzy Relations (C)</b></summary>
 <br>
@@ -107,6 +108,16 @@ The laboratory component focuses on implementing AI algorithms (Search strategie
 |:---|:---|:---|:-:|
 | `Fuzzy_Relations_Composition.c` | Soft Computing | Fuzzy Relations Composition (Max-Min & Max-Product) | [View](Experiment-6/Fuzzy_Relations_Composition.c) |
 </details>
+
+<details>
+<summary><b>Experiment 7: Fuzzy Controller (MATLAB)</b></summary>
+<br>
+
+| Program | Category | Description | Code |
+|:---|:---|:---|:-:|
+| `Fuzzy_Controller.m.txt` | Soft Computing | Fuzzy Logic Controller Implementation | [View](Experiment-7/Fuzzy_Controller.m.txt) |
+</details>
+
 
 <details>
 <summary><b>Experiment 8: Fuzzy Logic (Python)</b></summary>
