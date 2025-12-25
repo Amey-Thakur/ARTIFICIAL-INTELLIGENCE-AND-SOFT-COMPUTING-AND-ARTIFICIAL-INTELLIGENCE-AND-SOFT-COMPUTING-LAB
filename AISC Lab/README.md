@@ -41,7 +41,7 @@ The laboratory component focuses on implementing AI algorithms (Search strategie
 
 | # | Experiment | Date | Report |
 |:-:|:---|:---:|:-:|
-| 1 | Introduction to PROLOG and AI Programming | July 20, 2021 | [View](Experiment-1/AMEY_B-50_AI&SC_EXPERIMENT-1.pdf) |
+| 1 | Identify a problem statement relevant to AI and describe its PEAS Descriptors with its Properties | July 27, 2021 | [View](Experiment-1/AMEY_B-50_AI&SC_EXPERIMENT-1.pdf) |
 | 2 | Implementation of Family Tree using PROLOG | July 27, 2021 | [View](Experiment-2/AMEY_B-50_AI&SC_EXPERIMENT-2.pdf) |
 | 3 | Implementation of Uninformed Search (BFS & DFS) | August 03, 2021 | [View](Experiment-3/AMEY_B-50_AI&SC_EXPERIMENT-3.pdf) |
 | 4 | Implementation of Informed Search (A* Algorithm) | August 10, 2021 | [View](Experiment-4/AMEY_B-50_AI&SC_EXPERIMENT-4.pdf) |
