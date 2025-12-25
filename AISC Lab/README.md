@@ -65,8 +65,8 @@ The laboratory component focuses on implementing AI algorithms (Search strategie
 
 | Program | Category | Description | Code |
 |:---|:---|:---|:-:|
-| `FAMILYTREE.pl` | Logic Programming | Knowledge base for family relationships | [View](Experiment-2/FAMILYTREE.pl) |
-| `TEST.pl` | Logic Programming | Test queries for family tree | [View](Experiment-2/TEST.pl) |
+| `Family_Tree_Abstract.pl` | Logic Programming | Knowledge base for basic family relationships (Abstract) | [View](Experiment-2/Family_Tree_Abstract.pl) |
+| `Family_Tree_Concrete.pl` | Logic Programming | Knowledge base for extended family relationships (Concrete) | [View](Experiment-2/Family_Tree_Concrete.pl) |
 </details>
 
 <details>
