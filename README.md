@@ -248,7 +248,7 @@ The laboratory component (CSL703) focuses on hands-on implementation of AI algor
 
 <div align="center">
 
-  #### Neuro-Fuzzy: Artificial Neural Networks & Fuzzy Logic
+  #### 🧠 [Neuro-Fuzzy: Artificial Neural Networks & Fuzzy Logic](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=0inooPgAAAAJ&citation_for_view=0inooPgAAAAJ:hqOjcs7Dif8C)
 
 </div>
 
