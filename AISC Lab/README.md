@@ -45,7 +45,7 @@ The laboratory component focuses on implementing AI algorithms (Search strategie
 | 2 | A case study on Basic Programming in PROLOG and Develop a program to implement a family tree | August 03, 2021 | [View](Experiment-2/AMEY_B-50_AI&SC_EXPERIMENT-2.pdf) |
 | 3 | To Implement uninformed search methods using C or Java | August 10, 2021 | [View](Experiment-3/AMEY_B-50_AI&SC_EXPERIMENT-3.pdf) |
 | 4 | To Implement informed A* search methods using C or Java | August 20, 2021 | [View](Experiment-4/AMEY_B-50_AI&SC_EXPERIMENT-4.pdf) |
-| 5 | Supervised Learning using Weka Tool | August 24, 2021 | [View](Experiment-5/AMEY_B-50_AI&SC_EXPERIMENT-5.pdf) |
+| 5 | Identify the Classification problem and create a Knowledge database for that problem and apply appropriate search methods for optimization | August 24, 2021 | [View](Experiment-5/AMEY_B-50_AI&SC_EXPERIMENT-5.pdf) |
 | 6 | Implementation of Perceptron Learning Algorithm | August 31, 2021 | [View](Experiment-6/AMEY_B-50_AI&SC_EXPERIMENT-6.pdf) |
 | 7 | Implementation of Backpropagation Algorithm | September 07, 2021 | [View](Experiment-7/AMEY_B-50_AI&SC_EXPERIMENT-7.pdf) |
 | 8 | Implementation of Fuzzy Logic using Membership Functions | September 14, 2021 | [View](Experiment-8/AMEY_B-50_AI&SC_EXPERIMENT-8.pdf) |
@@ -89,12 +89,12 @@ The laboratory component focuses on implementing AI algorithms (Search strategie
 </details>
 
 <details>
-<summary><b>Experiment 5: Supervised Learning (Weka)</b></summary>
+<summary><b>Experiment 5: Flower Classification (Weka)</b></summary>
 <br>
 
 | Resource | Category | Description | Link |
 |:---|:---|:---|:-:|
-| `Flowers.arff` | Dataset | Iris Flowers Dataset | [View](Experiment-5/Dataset/Flowers.arff) |
+| `Flowers.arff` | Weka Dataset | Flower Classification Database | [View](Experiment-5/Flowers.arff) |
 | `Model` | Analysis | Learned Models | [View](Experiment-5/Model) |
 | `Output` | Results | Classification Accuracy Results | [View](Experiment-5/Output) |
 </details>
