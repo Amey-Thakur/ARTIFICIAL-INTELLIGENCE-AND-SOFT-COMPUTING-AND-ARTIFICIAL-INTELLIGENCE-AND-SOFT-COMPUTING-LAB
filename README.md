@@ -1,92 +1,325 @@
-# ARTIFICIAL INTELLIGENCE & SOFT COMPUTING AND ARTIFICIAL INTELLIGENCE & SOFT COMPUTING LAB
+<!-- =========================================================================================
+                                     HEADER SECTION
+     ========================================================================================= -->
+<div align="center">
 
- 👍🏻 CSC703: AISC & CSL703: AISC LAB [SEMESTER VII]
+  <img src="https://raw.githubusercontent.com/Amey-Thakur/COMPUTER-ENGINEERING/main/university-of-mumbai-logo.png" alt="University of Mumbai" width="200"/>
+
+  # Artificial Intelligence and Soft Computing and Artificial Intelligence and Soft Computing Lab
+
+  ### CSC703 & CSL703 · Semester VII · Computer Engineering
+
+  [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](LICENSE)
+  [![University](https://img.shields.io/badge/University-Mumbai-%23A6192E.svg)](https://mu.ac.in/)
+  [![Institution](https://img.shields.io/badge/Institution-Terna%20Engineering%20College-orange.svg)](https://ternaengg.ac.in/)
+  [![Curated by](https://img.shields.io/badge/Curated%20by-Amey%20Thakur-blue.svg)](https://github.com/Amey-Thakur)
+
+  **A comprehensive academic resource for Artificial Intelligence and Soft Computing (AISC) and AISC Laboratory, covering search strategies, knowledge representation, neural networks, fuzzy logic, and genetic algorithms.**
+
+  ---
+
+  [Overview](#overview) &nbsp;·&nbsp; [Contents](#repository-contents) &nbsp;·&nbsp; [Reference Books](#reference-books) &nbsp;·&nbsp; [Assignments](#assignments) &nbsp;·&nbsp; [Quizzes](#quizzes) &nbsp;·&nbsp; [Laboratory](#artificial-intelligence-and-soft-computing-laboratory) &nbsp;·&nbsp; [IAT](#internal-assessment-test) &nbsp;·&nbsp; [Semester Exam](#semester-exam) &nbsp;·&nbsp; [Question Papers](#question-papers) &nbsp;·&nbsp; [Submission Report](#submission-completion-report) &nbsp;·&nbsp; [Syllabus](#syllabus) &nbsp;·&nbsp; [Usage Guidelines](#usage-guidelines) &nbsp;·&nbsp; [License](#license) &nbsp;·&nbsp; [About](#about-this-repository) &nbsp;·&nbsp; [Acknowledgments](#acknowledgments)
+
+</div>
 
 ---
- 
- - [X] **[Syllabus](https://github.com/Amey-Thakur/ARTIFICIAL-INTELLIGENCE-AND-SOFT-COMPUTING-AND-ARTIFICIAL-INTELLIGENCE-AND-SOFT-COMPUTING-LAB/blob/main/Syllabus/TE%20BE%20Comp%20Engg%20CBCGS%20Syllabus.pdf)**
- 
- - [X] **AISC - [Reference Books](https://github.com/Amey-Thakur/ARTIFICIAL-INTELLIGENCE-AND-SOFT-COMPUTING-AND-ARTIFICIAL-INTELLIGENCE-AND-SOFT-COMPUTING-LAB/tree/main/Reference%20Books)**
+
+<!-- =========================================================================================
+                                     OVERVIEW SECTION
+     ========================================================================================= -->
+## Overview
+
+Artificial Intelligence and Soft Computing (CSC703) and AISC Lab (CSL703) are core subjects in the Final Year (Semester VII) of the Computer Engineering curriculum at the University of Mumbai. Those courses provide foundational knowledge of intelligent systems, logic programming, and soft computing paradigms.
+
+### Course Topics
+
+The curriculum encompasses several key domains:
+
+- **Intelligent Agents**: Agents and environments, rational agents, PEAS representation.
+- **Problem Solving**: Uninformed search (BFS, DFS, IDDFS), Informed search (A*, Heuristic functions).
+- **Knowledge Representation**: First-order logic, interference, Forward and Backward chaining.
+- **Uncertainty**: Probabilistic reasoning, Bayesian networks.
+- **Soft Computing**: Neural Networks (Perceptron, Backpropagation), Fuzzy Logic, Genetic Algorithms.
+- **Expert Systems**: Architecture and applications.
+
+### Repository Purpose
+
+This repository represents a curated collection of study materials, reference books, lab experiments, and personal preparation notes compiled during my academic journey. The primary motivation for creating and maintaining this archive is simple yet profound: **to preserve knowledge for continuous learning and future reference**.
+
+As a computer engineer, understanding AI and soft computing is crucial for developing modern intelligent applications. This repository serves as my intellectual reference point.
+
+**Why this repository exists:**
+
+- **Knowledge Preservation**: To maintain organized access to comprehensive study materials.
+- **Continuous Learning**: To support lifelong learning by enabling easy revisitation of AI concepts.
+- **Academic Documentation**: To authentically document my learning journey through AISC.
+- **Community Contribution**: To share these resources with students and learners.
+
+All materials in this repository were gathered, organized, and documented by me during my undergraduate studies (2018-2022).
 
 ---
- 
-## Assignments
- 
- - AISC [Assignment - 1](https://github.com/Amey-Thakur/ARTIFICIAL-INTELLIGENCE-AND-SOFT-COMPUTING-AND-ARTIFICIAL-INTELLIGENCE-AND-SOFT-COMPUTING-LAB/blob/main/Assignments/AMEY_B-50_AI%26SC_ASSIGNMENT-1.pdf)
- 
- - AISC [Assignment - 2](https://github.com/Amey-Thakur/ARTIFICIAL-INTELLIGENCE-AND-SOFT-COMPUTING-AND-ARTIFICIAL-INTELLIGENCE-AND-SOFT-COMPUTING-LAB/blob/main/Assignments/AMEY_B-50_AI%26SC_ASSIGNMENT-2.pdf)
- 
- - AISC [Assignment - 3](https://github.com/Amey-Thakur/ARTIFICIAL-INTELLIGENCE-AND-SOFT-COMPUTING-AND-ARTIFICIAL-INTELLIGENCE-AND-SOFT-COMPUTING-LAB/blob/main/Assignments/AMEY_B-50_AI%26SC_ASSIGNMENT-3.pdf)
- 
- 
- ## Experiments 
- 
- >Artificial Intelligence & Soft Computing Lab
 
- - AI&SC Lab [Experiment - 1](https://github.com/Amey-Thakur/ARTIFICIAL-INTELLIGENCE-AND-SOFT-COMPUTING-AND-ARTIFICIAL-INTELLIGENCE-AND-SOFT-COMPUTING-LAB/blob/main/Experiments/AISC%20Experiment%20-%201/AMEY_B-50_AI%26SC_EXPERIMENT-1.pdf)
- 
- - AI&SC Lab [Experiment - 2](https://github.com/Amey-Thakur/ARTIFICIAL-INTELLIGENCE-AND-SOFT-COMPUTING-AND-ARTIFICIAL-INTELLIGENCE-AND-SOFT-COMPUTING-LAB/blob/main/Experiments/AISC%20Experiment%20-%202/AMEY_B-50_AI%26SC_EXPERIMENT-2.pdf) | [FAMILYTREE](https://github.com/Amey-Thakur/ARTIFICIAL-INTELLIGENCE-AND-SOFT-COMPUTING-AND-ARTIFICIAL-INTELLIGENCE-AND-SOFT-COMPUTING-LAB/blob/main/Experiments/AISC%20Experiment%20-%202/FAMILYTREE.pl) | [Test](https://github.com/Amey-Thakur/ARTIFICIAL-INTELLIGENCE-AND-SOFT-COMPUTING-AND-ARTIFICIAL-INTELLIGENCE-AND-SOFT-COMPUTING-LAB/blob/main/Experiments/AISC%20Experiment%20-%202/TEST.pl)
- 
- - AI&SC Lab [Experiment - 3](https://github.com/Amey-Thakur/ARTIFICIAL-INTELLIGENCE-AND-SOFT-COMPUTING-AND-ARTIFICIAL-INTELLIGENCE-AND-SOFT-COMPUTING-LAB/blob/main/Experiments/AISC%20Experiment%20-%203/AMEY_B-50_AI%26SC_EXPERIMENT-3.pdf) | [BFS](https://github.com/Amey-Thakur/ARTIFICIAL-INTELLIGENCE-AND-SOFT-COMPUTING-AND-ARTIFICIAL-INTELLIGENCE-AND-SOFT-COMPUTING-LAB/blob/main/Experiments/AISC%20Experiment%20-%203/BFS.C) | [DFS](https://github.com/Amey-Thakur/ARTIFICIAL-INTELLIGENCE-AND-SOFT-COMPUTING-AND-ARTIFICIAL-INTELLIGENCE-AND-SOFT-COMPUTING-LAB/blob/main/Experiments/AISC%20Experiment%20-%203/DFS.C)
- 
- - AI&SC Lab [Experiment - 4](https://github.com/Amey-Thakur/ARTIFICIAL-INTELLIGENCE-AND-SOFT-COMPUTING-AND-ARTIFICIAL-INTELLIGENCE-AND-SOFT-COMPUTING-LAB/blob/main/Experiments/AISC%20Experiment%20-%204/AMEY_B-50_AI%26SC_EXPERIMENT-4.pdf) | [ASTAR (A*)](https://github.com/Amey-Thakur/ARTIFICIAL-INTELLIGENCE-AND-SOFT-COMPUTING-AND-ARTIFICIAL-INTELLIGENCE-AND-SOFT-COMPUTING-LAB/blob/main/Experiments/AISC%20Experiment%20-%204/ASTAR.py)
- 
- - AI&SC Lab [Experiment - 5](https://github.com/Amey-Thakur/ARTIFICIAL-INTELLIGENCE-AND-SOFT-COMPUTING-AND-ARTIFICIAL-INTELLIGENCE-AND-SOFT-COMPUTING-LAB/blob/main/Experiments/AISC%20Experiment%20-%205/AMEY_B-50_AI%26SC_EXPERIMENT-5.pdf) | [Dataset](https://github.com/Amey-Thakur/ARTIFICIAL-INTELLIGENCE-AND-SOFT-COMPUTING-AND-ARTIFICIAL-INTELLIGENCE-AND-SOFT-COMPUTING-LAB/blob/main/Experiments/AISC%20Experiment%20-%205/Dataset/Flowers.arff) | [Model](https://github.com/Amey-Thakur/ARTIFICIAL-INTELLIGENCE-AND-SOFT-COMPUTING-AND-ARTIFICIAL-INTELLIGENCE-AND-SOFT-COMPUTING-LAB/tree/main/Experiments/AISC%20Experiment%20-%205/Model) | [Accuracy](https://github.com/Amey-Thakur/ARTIFICIAL-INTELLIGENCE-AND-SOFT-COMPUTING-AND-ARTIFICIAL-INTELLIGENCE-AND-SOFT-COMPUTING-LAB/tree/main/Experiments/AISC%20Experiment%20-%205/Output)
- 
- - AI&SC Lab [Experiment - 6](https://github.com/Amey-Thakur/ARTIFICIAL-INTELLIGENCE-AND-SOFT-COMPUTING-AND-ARTIFICIAL-INTELLIGENCE-AND-SOFT-COMPUTING-LAB/blob/main/Experiments/AISC%20Experiment%20-%206/AMEY_B-50_AI%26SC_EXPERIMENT-6.pdf) | [Source Code](https://github.com/Amey-Thakur/ARTIFICIAL-INTELLIGENCE-AND-SOFT-COMPUTING-AND-ARTIFICIAL-INTELLIGENCE-AND-SOFT-COMPUTING-LAB/blob/main/Experiments/AISC%20Experiment%20-%206/experiment6.c)
- 
- - AI&SC Lab [Experiment - 7](https://github.com/Amey-Thakur/ARTIFICIAL-INTELLIGENCE-AND-SOFT-COMPUTING-AND-ARTIFICIAL-INTELLIGENCE-AND-SOFT-COMPUTING-LAB/blob/main/Experiments/AISC%20Experiment%20-%207/AMEY_B-50_AI%26SC_EXPERIMENT-7.pdf)
- 
- - AI&SC Lab [Experiment - 8](https://github.com/Amey-Thakur/ARTIFICIAL-INTELLIGENCE-AND-SOFT-COMPUTING-AND-ARTIFICIAL-INTELLIGENCE-AND-SOFT-COMPUTING-LAB/blob/main/Experiments/AISC%20Experiment%20-%208/AMEY_B-50_AI%26SC_EXPERIMENT-8.pdf) | [Source Code](https://github.com/Amey-Thakur/ARTIFICIAL-INTELLIGENCE-AND-SOFT-COMPUTING-AND-ARTIFICIAL-INTELLIGENCE-AND-SOFT-COMPUTING-LAB/blob/main/Experiments/AISC%20Experiment%20-%208/AMEY_B_50_AI%26SC_EXPERIMENT_8.ipynb)
- 
- - AI&SC Lab [Experiment - 9](https://github.com/Amey-Thakur/ARTIFICIAL-INTELLIGENCE-AND-SOFT-COMPUTING-AND-ARTIFICIAL-INTELLIGENCE-AND-SOFT-COMPUTING-LAB/blob/main/Experiments/AISC%20Experiment%20-%209/AMEY_B-50_AI%26SC_EXPERIMENT-9.pdf) | [Source Code](https://github.com/Amey-Thakur/ARTIFICIAL-INTELLIGENCE-AND-SOFT-COMPUTING-AND-ARTIFICIAL-INTELLIGENCE-AND-SOFT-COMPUTING-LAB/blob/main/Experiments/AISC%20Experiment%20-%209/AISC-9.m.txt)
- 
- - AI&SC Lab [Experiment - 10](https://github.com/Amey-Thakur/ARTIFICIAL-INTELLIGENCE-AND-SOFT-COMPUTING-AND-ARTIFICIAL-INTELLIGENCE-AND-SOFT-COMPUTING-LAB/tree/main/Experiments/AISC%20Experiment%20-%2010)
+<!-- =========================================================================================
+                                     CONTENTS SECTION
+     ========================================================================================= -->
+## Repository Contents
 
+### Reference Books
 
-## Quizzes
- 
- - AISC [Quiz - 1](https://github.com/Amey-Thakur/ARTIFICIAL-INTELLIGENCE-AND-SOFT-COMPUTING-AND-ARTIFICIAL-INTELLIGENCE-AND-SOFT-COMPUTING-LAB/blob/main/Quizzes/AISC%20Quiz-1.pdf)
- 
- - AISC [Quiz - 2](https://github.com/Amey-Thakur/ARTIFICIAL-INTELLIGENCE-AND-SOFT-COMPUTING-AND-ARTIFICIAL-INTELLIGENCE-AND-SOFT-COMPUTING-LAB/blob/main/Quizzes/AISC%20Quiz-2.pdf)
- 
- - AISC [Quiz - 3](https://github.com/Amey-Thakur/ARTIFICIAL-INTELLIGENCE-AND-SOFT-COMPUTING-AND-ARTIFICIAL-INTELLIGENCE-AND-SOFT-COMPUTING-LAB/blob/main/Quizzes/AISC%20Quiz-3.pdf)
- 
- - AISC [Quiz - 4](https://github.com/Amey-Thakur/ARTIFICIAL-INTELLIGENCE-AND-SOFT-COMPUTING-AND-ARTIFICIAL-INTELLIGENCE-AND-SOFT-COMPUTING-LAB/blob/main/Quizzes/AISC%20Quiz-4.pdf)
- 
- - AISC [Quiz - 5](https://github.com/Amey-Thakur/ARTIFICIAL-INTELLIGENCE-AND-SOFT-COMPUTING-AND-ARTIFICIAL-INTELLIGENCE-AND-SOFT-COMPUTING-LAB/blob/main/Quizzes/AISC%20Quiz-5.pdf)
- 
- - AISC [Quiz - 6](https://github.com/Amey-Thakur/ARTIFICIAL-INTELLIGENCE-AND-SOFT-COMPUTING-AND-ARTIFICIAL-INTELLIGENCE-AND-SOFT-COMPUTING-LAB/blob/main/Quizzes/AISC%20Quiz-6.pdf)
+This collection includes **comprehensive reference materials** covering all major topics:
 
+| # | Resource | Focus Area |
+|:-:|:---|:---|
+| 1 | [AI: A Modern Approach (3rd Ed)](Reference%20Books/Artificial%20Intelligence%20A%20Modern%20Approach%20(3rd%20Edition).pdf) | The standard textbook for Artificial Intelligence |
+| 2 | [AISC Topper's Solution](Reference%20Books/AISC%20Topper's%20Solution.pdf) | Solved exams and important questions |
+| 3 | [AISC Module 1](Reference%20Books/aisc_1.pdf) | Introduction to AI and Intelligent Agents |
+| 4 | [AISC Module 2](Reference%20Books/aisc_2.pdf) | Problem Solving and Search Stategies |
+| 5 | [AISC Module 3](Reference%20Books/aisc_3.pdf) | Knowledge Representation and Logic |
+| 6 | [AISC Module 4](Reference%20Books/aisc_4.pdf) | AI Planning and Uncertainty |
+| 7 | [AISC Module 5](Reference%20Books/aisc_5.pdf) | Artificial Neural Networks |
+| 8 | [AISC Module 6](Reference%20Books/aisc_6.pdf) | Fuzzy Logic and Expert Systems |
+| 9 | [Expert Systems Notes](Reference%20Books/Expert%20System.pdf) | Dedicated notes on Expert Systems |
+| 10 | [Planning Notes](Reference%20Books/Planning.pdf) | Dedicated notes on Planning in AI |
+| 11 | [Uncertainty Notes](Reference%20Books/uncertainty.pdf) | Dedicated notes on Uncertainty |
+| 12 | [AISC Index](Reference%20Books/aisc_index.pdf) | Index of topics and notes |
 
+---
+
+### Assignments
+
+Academic assignments for comprehensive learning and practice:
+
+| # | Assignment | Description |
+|:-:|:---|:---|
+| 1 | [**Assignment 1**](Assignments/AMEY_B-50_AI&SC_ASSIGNMENT-1.pdf) | Intelligent Agents and Search Strategies |
+| 2 | [**Assignment 2**](Assignments/AMEY_B-50_AI&SC_ASSIGNMENT-2.pdf) | Knowledge Representation and Logic |
+| 3 | [**Assignment 3**](Assignments/AMEY_B-50_AI&SC_ASSIGNMENT-3.pdf) | Soft Computing: Neural Networks and Fuzzy Logic |
+
+**Topics Covered**: Fundamentals of AI · Search Algorithms · Logic Programming · Neural Networks · Fuzzy Logic
+
+---
+
+### Quizzes
+
+AISC-specific quizzes conducted during the course:
+
+| # | Quiz | Description |
+|:-:|:---|:---|
+| 1 | [**Quiz 1**](Quizzes/AISC%20Quiz-1.pdf) | Introduction to AI |
+| 2 | [**Quiz 2**](Quizzes/AISC%20Quiz-2.pdf) | Search Strategies |
+| 3 | [**Quiz 3**](Quizzes/AISC%20Quiz-3.pdf) | Knowledge Representation |
+| 4 | [**Quiz 4**](Quizzes/AISC%20Quiz-4.pdf) | Planning and Uncertainty |
+| 5 | [**Quiz 5**](Quizzes/AISC%20Quiz-5.pdf) | Artificial Neural Networks |
+| 6 | [**Quiz 6**](Quizzes/AISC%20Quiz-6.pdf) | Fuzzy Logic and Expert Systems |
+
+---
+
+<!-- =========================================================================================
+                                     LABORATORY SECTION
+     ========================================================================================= -->
+## Artificial Intelligence and Soft Computing Laboratory
+
+The laboratory component (CSL703) focuses on hands-on implementation of AI algorithms including Search strategies, PROLOG programming, and Soft Computing techniques like Neural Networks and Fuzzy Logic.
+
+<div align="center">
+
+  [![Total Experiments](https://img.shields.io/badge/Total%20Experiments-10-yellowgreen.svg)](AISC%20Lab/)
+  [![Status](https://img.shields.io/badge/Status-Complete-brightgreen.svg)](AISC%20Lab/)
+  [![Language](https://img.shields.io/badge/Language-Python%20%7C%20PROLOG%20%7C%20C-blueviolet.svg)](AISC%20Lab/)
+
+</div>
+
+> [!TIP]
+> **Implementation Note**: The laboratory work involves multiple languages including **Python**, **PROLOG**, and **C/C++**, reflecting the diverse tooling in the AI landscape.
+
+| # | Experiment | Date | Report |
+|:-:|:---|:---:|:-:|
+| 1 | Introduction to PROLOG and AI Programming | July 20, 2021 | [View](AISC%20Lab/Experiment-1/AMEY_B-50_AI&SC_EXPERIMENT-1.pdf) |
+| 2 | Implementation of Family Tree using PROLOG | July 27, 2021 | [View](AISC%20Lab/Experiment-2/AMEY_B-50_AI&SC_EXPERIMENT-2.pdf) |
+| 3 | Implementation of Uninformed Search (BFS & DFS) | August 03, 2021 | [View](AISC%20Lab/Experiment-3/AMEY_B-50_AI&SC_EXPERIMENT-3.pdf) |
+| 4 | Implementation of Informed Search (A* Algorithm) | August 10, 2021 | [View](AISC%20Lab/Experiment-4/AMEY_B-50_AI&SC_EXPERIMENT-4.pdf) |
+| 5 | Supervised Learning using Weka Tool | August 24, 2021 | [View](AISC%20Lab/Experiment-5/AMEY_B-50_AI&SC_EXPERIMENT-5.pdf) |
+| 6 | Implementation of Perceptron Learning Algorithm | August 31, 2021 | [View](AISC%20Lab/Experiment-6/AMEY_B-50_AI&SC_EXPERIMENT-6.pdf) |
+| 7 | Implementation of Backpropagation Algorithm | September 07, 2021 | [View](AISC%20Lab/Experiment-7/AMEY_B-50_AI&SC_EXPERIMENT-7.pdf) |
+| 8 | Implementation of Fuzzy Logic using Membership Functions | September 14, 2021 | [View](AISC%20Lab/Experiment-8/AMEY_B-50_AI&SC_EXPERIMENT-8.pdf) |
+| 9 | Implementation of Membrane Computing | September 21, 2021 | [View](AISC%20Lab/Experiment-9/AMEY_B-50_AI&SC_EXPERIMENT-9.pdf) |
+| 10 | Case Study on AI Applications | October 05, 2021 | [View](AISC%20Lab/Experiment-10) |
+
+### Laboratory Documentation
+
+| # | Resource | Description |
+|:-:|:---|:---|
+| 1 | [Lab README](AISC%20Lab/README.md) | Detailed navigation guide with program descriptions |
+
+---
+
+<!-- =========================================================================================
+                                     IAT SECTION
+     ========================================================================================= -->
 ## Internal Assessment Test
- 
- - AISC [IAT - 1](https://github.com/Amey-Thakur/ARTIFICIAL-INTELLIGENCE-AND-SOFT-COMPUTING-AND-ARTIFICIAL-INTELLIGENCE-AND-SOFT-COMPUTING-LAB/blob/main/Internal%20Assessment%20Test/AMEY_B-50_AISC_IAT-1.pdf)
- 
- - AISC [IAT - 2](https://github.com/Amey-Thakur/ARTIFICIAL-INTELLIGENCE-AND-SOFT-COMPUTING-AND-ARTIFICIAL-INTELLIGENCE-AND-SOFT-COMPUTING-LAB/blob/main/Internal%20Assessment%20Test/AMEY_B-50_AISC_IAT-2.pdf)
 
+Internal assessment evaluations conducted during the course:
 
-## Semester Exam
- 
- - AISC [Answersheet](https://github.com/Amey-Thakur/ARTIFICIAL-INTELLIGENCE-AND-SOFT-COMPUTING-AND-ARTIFICIAL-INTELLIGENCE-AND-SOFT-COMPUTING-LAB/blob/main/Semester%20Exam/AMEY_B-50_7278000_AISC.pdf)
+### IAT - 1
 
+| # | Resource | Description |
+|:-:|:---|:---|
+| 1 | [Answer Sheet](Internal%20Assessment%20Test/AMEY_B-50_AISC_IAT-1.pdf) | AISC Internal Assessment Test 1 Answer Sheet |
 
-## Question Papers
- 
- - [Previous Question Papers](https://github.com/Amey-Thakur/ARTIFICIAL-INTELLIGENCE-AND-SOFT-COMPUTING-AND-ARTIFICIAL-INTELLIGENCE-AND-SOFT-COMPUTING-LAB/tree/main/Question%20Papers)
+### IAT - 2
 
-
-## Exit Survey
- 
- - AISC [Lab Exit Survey](https://github.com/Amey-Thakur/ARTIFICIAL-INTELLIGENCE-AND-SOFT-COMPUTING-AND-ARTIFICIAL-INTELLIGENCE-AND-SOFT-COMPUTING-LAB/blob/main/Exit%20Survey/AI%20%26%20SC-Lab-Exit-Survey.pdf)
-
-
-## Submission Report
- 
- - [Report](https://github.com/Amey-Thakur/ARTIFICIAL-INTELLIGENCE-AND-SOFT-COMPUTING-AND-ARTIFICIAL-INTELLIGENCE-AND-SOFT-COMPUTING-LAB/blob/main/Exit%20Survey/AMEY_B-50_AI%26SC_SUBMISSION_REPORT.pdf)
+| # | Resource | Description |
+|:-:|:---|:---|
+| 1 | [Answer Sheet](Internal%20Assessment%20Test/AMEY_B-50_AISC_IAT-2.pdf) | AISC Internal Assessment Test 2 Answer Sheet |
 
 ---
 
-<p align="center"> <b> 👉🏻 Subject as a part of the 7th Semester of Engineering @ University of Mumbai 👈🏻 <b> </p>
- 
-<p align="center"><a href='https://github.com/Amey-Thakur/COMPUTER-ENGINEERING', style='color: greenyellow;'> ✌🏻 Back To Engineering ✌🏻</p>
+<!-- =========================================================================================
+                                     SEMESTER EXAM SECTION
+     ========================================================================================= -->
+## Semester Exam
+
+> [!IMPORTANT]
+> **COVID-19 Impact**: This coursework was completed during the COVID-19 pandemic. All examinations and assessments were conducted in a digital format.
+
+Final semester examination submission:
+
+| # | Resource | Description | Date |
+|:-:|:---|:---|:-:|
+| 1 | [Answer Sheet](Semester%20Exam/AMEY_B-50_7278000_AISC.pdf) | AISC Semester Exam Answer Sheet | November 2021 |
+
+---
+
+<!-- =========================================================================================
+                                     QUESTION PAPERS SECTION
+     ========================================================================================= -->
+## Question Papers
+
+Previous year university question papers:
+
+| # | Exam Session | Syllabus | Resource |
+|:-:|:---|:-:|:-:|
+| 1 | May 2019 | CBCGS | [View](Question%20Papers/2019/MAY) |
+| 2 | December 2019 | CBCGS | [View](Question%20Papers/2019/DEC) |
+| 3 | May 2018 | CBCGS | [View](Question%20Papers/2018/MAY) |
+| 4 | December 2018 | CBCGS | [View](Question%20Papers/2018/DEC) |
+| 5 | May 2017 | CBCGS | [View](Question%20Papers/2017/MAY) |
+| 6 | December 2017 | CBCGS | [View](Question%20Papers/2017/DEC) |
+| 7 | May 2016 | CBCGS | [View](Question%20Papers/2016/MAY) |
+| 8 | December 2016 | CBCGS | [View](Question%20Papers/2016/DEC) |
+| 9 | May 2015 | CBGS | [View](Question%20Papers/2015/MAY) |
+| 10 | December 2015 | CBGS | [View](Question%20Papers/2015/DEC) |
+| 11 | December 2014 | CBGS | [View](Question%20Papers/2014/DEC) |
+| 12 | December 2013 | CBGS | [View](Question%20Papers/2013/DEC) |
+| 13 | May 2013 | CBGS | [View](Question%20Papers/2013/MAY) |
+| 14 | December 2012 | CBGS | [View](Question%20Papers/2012/DEC) |
+| 15 | May 2012 | CBGS | [View](Question%20Papers/2012/MAY) |
+
+---
+
+<!-- =========================================================================================
+                                     SUBMISSION REPORT SECTION
+     ========================================================================================= -->
+## Submission Completion Report
+
+Course completion documentation with exit survey:
+
+| # | Document | Description |
+|:-:|:---|:---|
+| 1 | [Exit Survey (Lab)](Submission%20Report/AI%20&%20SC-Lab-Exit-Survey.pdf) | Course outcome survey for AISC Lab |
+| 2 | [Submission Report](Submission%20Report/AMEY_B-50_AI&SC_SUBMISSION_REPORT.pdf) | Comprehensive submission report |
+
+---
+
+<!-- =========================================================================================
+                                     SYLLABUS SECTION
+     ========================================================================================= -->
+## Syllabus
+
+> **[Official CBCGS Syllabus](Syllabus/TE%20BE%20Comp%20Engg%20CBCGS%20Syllabus.pdf)**  
+> Complete Final Year Computer Engineering syllabus document from the University of Mumbai, including detailed course outcomes, assessment criteria, and module specifications for AISC and AISC Lab.
+
+> [!IMPORTANT]
+> Always verify the latest syllabus details with the official University of Mumbai website, as curriculum updates may occur after this repository's archival date.
+
+---
+
+<!-- =========================================================================================
+                                     USAGE GUIDELINES SECTION
+     ========================================================================================= -->
+## Usage Guidelines
+
+This repository is openly shared to support learning and knowledge exchange across the academic community.
+
+**For Students**  
+Use these resources as reference materials for understanding AI algorithms, soft computing models, and preparing for examinations. All content is organized for self-paced learning.
+
+**For Educators**  
+These materials may serve as curriculum references, lab examples, or supplementary teaching resources. Attribution is appreciated when utilizing content.
+
+**For Researchers**  
+The documentation and organization may provide insights into academic resource curation and educational content structuring.
+
+---
+
+<!-- =========================================================================================
+                                     LICENSE SECTION
+     ========================================================================================= -->
+## License
+
+This repository and all linked academic content are made available under the **Creative Commons Attribution 4.0 International License (CC BY 4.0)**. See the [LICENSE](LICENSE) file for complete terms.
+
+> [!NOTE]
+> **Summary:** You are free to share and adapt this content for any purpose, even commercially, as long as you provide appropriate attribution to the original author.
+
+---
+
+<!-- =========================================================================================
+                                     ABOUT SECTION
+     ========================================================================================= -->
+## About This Repository
+
+**Created & Maintained by:** [Amey Thakur](https://github.com/Amey-Thakur)  
+**Academic Journey:** Bachelor of Engineering in Computer Engineering (2018-2022)  
+**Institution:** [Terna Engineering College](https://ternaengg.ac.in/), Navi Mumbai  
+**University:** [University of Mumbai](https://mu.ac.in/)
+
+This repository represents a comprehensive collection of study materials, reference books, assignments, quizzes, and lab reports curated during my academic journey. All content has been carefully organized and documented to serve as a valuable resource for students pursuing Artificial Intelligence and Soft Computing.
+
+**Connect:** [GitHub](https://github.com/Amey-Thakur) · [LinkedIn](https://www.linkedin.com/in/amey-thakur)
+
+### Acknowledgments
+
+Special thanks to the faculty members of the Department of Computer Engineering at Terna Engineering College for their guidance in Artificial Intelligence and Soft Computing. Their support helped develop a strong understanding of intelligent systems and soft computing paradigms.
+
+Special thanks to the mentors and peers whose encouragement, discussions, and support contributed meaningfully to this learning experience.
+
+---
+
+<!-- =========================================================================================
+                                     FOOTER SECTION
+     ========================================================================================= -->
+<div align="center">
+
+  <!-- Footer Navigation -->
+  **[↑ Back to Top](#artificial-intelligence-and-soft-computing-and-artificial-intelligence-and-soft-computing-lab)**
+
+  **[Overview](#overview)** &nbsp;·&nbsp; **[Contents](#repository-contents)** &nbsp;·&nbsp; **[Reference Books](#reference-books)** &nbsp;·&nbsp; **[Assignments](#assignments)** &nbsp;·&nbsp; **[Quizzes](#quizzes)** &nbsp;·&nbsp; **[Laboratory](#artificial-intelligence-and-soft-computing-laboratory)** &nbsp;·&nbsp; **[IAT](#internal-assessment-test)** &nbsp;·&nbsp; **[Semester Exam](#semester-exam)** &nbsp;·&nbsp; **[Question Papers](#question-papers)** &nbsp;·&nbsp; **[Submission Report](#submission-completion-report)** &nbsp;·&nbsp; **[Syllabus](#syllabus)** &nbsp;·&nbsp; **[Usage Guidelines](#usage-guidelines)** &nbsp;·&nbsp; **[License](#license)** &nbsp;·&nbsp; **[About](#about-this-repository)** &nbsp;·&nbsp; **[Acknowledgments](#acknowledgments)**
+
+  <br>
+
+  **[AISC Lab](AISC%20Lab/README.md)**
+
+</div>
+
+---
+
+<div align="center">
+
+  ### 🎓 [Computer Engineering Repository](https://github.com/Amey-Thakur/COMPUTER-ENGINEERING)
+
+  **Computer Engineering (B.E.) - University of Mumbai**
+
+  *Semester-wise curriculum, laboratories, projects, and academic notes.*
+
+</div>
