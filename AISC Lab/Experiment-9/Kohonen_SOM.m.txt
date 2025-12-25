@@ -1,0 +1,97 @@
+% =========================================================================================
+% Terna Engineering College
+% Computer Engineering Department
+%
+% EXPERIMENT NO. 09
+%
+% Name: Amey Mahendra Thakur    Roll No: 50
+% Class: BE-COMPS-B             Batch: B3
+% Date: 06-10-2021
+%
+% Repository: https://github.com/Amey-Thakur/ARTIFICIAL-INTELLIGENCE-AND-SOFT-COMPUTING-AND-ARTIFICIAL-INTELLIGENCE-AND-SOFT-COMPUTING-LAB
+% Profile: https://github.com/Amey-Thakur
+% =========================================================================================
+%
+% Subject: Artificial Intelligence and Soft Computing (AISC)
+% Aim: To Implement Kohonen self-organizing Map- un-supervised learning algorithm.
+%
+% Description:
+% This program implements the Kohonen Self-Organizing Map (SOM), an unsupervised learning
+% algorithm. It clusters input patterns into groups based on their similarity (Euclidean distance)
+% to weight vectors. The winning unit's weights are updated to move closer to the input pattern.
+%
+% =========================================================================================
+
+clear all;
+clc;
+
+disp('Kohonen Self Organizing Feature Maps');
+
+% Input patterns
+disp('The input patterns are');
+x=[1 1 0 0; 0 0 0 1; 1 0 0 0; 0 0 1 1]
+
+% Initialize learning rate (alpha)
+t=1;
+alpha(t)=0.6;
+%alpha(t)=0.2;
+
+e=1; % Epoch counter
+
+disp('Since we have four input pattern and cluster unit to be formed is 2, the weight matrix is');
+% Initial weights
+w=[0.2 0.8; 0.6 0.4; 0.5 0.7; 0.9 0.3]
+
+disp('The learning rate of this epoch is');
+alpha
+
+% Training loop (3 epochs)
+while(e<=3);
+    i=1;
+    j=1;
+    k=1;
+    m=1;
+    
+    disp('Epoch = ');
+    e
+    
+    % Loop through all 4 input patterns
+    while(i<=4)
+        % Calculate Euclidean distance D(j) for each cluster unit j (1 and 2)
+        for j=1:2
+            temp=0;
+            for k=1:4
+                % Distance calculation: sum((w - x)^2)
+                % Note: Implementation uses simple difference in places, adjusting to standard
+                 temp=temp+((w(k,j)-x(i,k))^2);
+                 % temp=temp+((w(k,j)-x(i,k))); % Original code had this, assuming squared Euclidean Distance for SOM
+            end
+            D(j)=temp
+        end
+        
+        % Find the winning unit J (minimum distance)
+        if(D(1)<D(2))
+            J=1;
+        else
+            J=2;
+        end
+        
+        disp('The winning unit is ');
+        J
+        
+        disp('Weight updation ');
+        % Update weights for the winning unit J
+        for m=1:4
+            w(m,J)=w(m,J)+(alpha(e)*(x(i,m)-w(m,J)));
+        end
+        w
+        
+        i=i+1; % Next pattern
+    end
+    
+    % Update learning rate for next epoch
+    temp=alpha(e);
+    e=e+1;
+    alpha(e)=(0.5*temp);
+    alpha(e)
+end
