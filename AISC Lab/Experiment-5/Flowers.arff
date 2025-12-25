@@ -1,3 +1,27 @@
+% =========================================================================================
+% Terna Engineering College
+% Computer Engineering Department
+%
+% EXPERIMENT NO. 05
+%
+% Name: Amey Mahendra Thakur    Roll No: 50
+% Class: BE-COMPS-B             Batch: B3
+% Date: 24-08-2021
+%
+% Repository: https://github.com/Amey-Thakur/ARTIFICIAL-INTELLIGENCE-AND-SOFT-COMPUTING-AND-ARTIFICIAL-INTELLIGENCE-AND-SOFT-COMPUTING-LAB
+% Profile: https://github.com/Amey-Thakur
+% =========================================================================================
+%
+% Subject: Artificial Intelligence and Soft Computing (AISC)
+% Aim: Identify the Classification problem and create a Knowledge database for that 
+%      problem and apply appropriate search methods for optimization.
+%
+% Description:
+% This is a dataset in ARFF format created for classification analysis using Weka.
+% It categorizes flowers based on their type, color, and feature to determine if they are in stock.
+%
+% =========================================================================================
+
 @relation Flowers
 
 @attribute Type	      {Lilies, Orchids, Roses, Tulips}
