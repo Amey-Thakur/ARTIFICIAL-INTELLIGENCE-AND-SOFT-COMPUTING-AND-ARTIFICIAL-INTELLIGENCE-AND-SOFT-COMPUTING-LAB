@@ -105,12 +105,12 @@ AISC-specific quizzes conducted during the course:
 
 | # | Quiz | Topics | Marks |
 |:-:|:---|:---|:-:|
-| 1 | [**Quiz 1**](Quizzes/AISC%20Quiz-1.pdf) | Introduction to AI | 10 |
-| 2 | [**Quiz 2**](Quizzes/AISC%20Quiz-2.pdf) | Search Strategies | 10 |
-| 3 | [**Quiz 3**](Quizzes/AISC%20Quiz-3.pdf) | Knowledge Representation | 9 |
-| 4 | [**Quiz 4**](Quizzes/AISC%20Quiz-4.pdf) | Planning and Uncertainty | 10 |
-| 5 | [**Quiz 5**](Quizzes/AISC%20Quiz-5.pdf) | Artificial Neural Networks | 10 |
-| 6 | [**Quiz 6**](Quizzes/AISC%20Quiz-6.pdf) | Fuzzy Logic and Expert Systems | 10 |
+| 1 | [**Quiz 1**](Quizzes/AISC%20Quiz-1.pdf) | Introduction to AI | 10/10 |
+| 2 | [**Quiz 2**](Quizzes/AISC%20Quiz-2.pdf) | Search Strategies | 10/10 |
+| 3 | [**Quiz 3**](Quizzes/AISC%20Quiz-3.pdf) | Knowledge Representation | 9/10 |
+| 4 | [**Quiz 4**](Quizzes/AISC%20Quiz-4.pdf) | Planning and Uncertainty | 10/10 |
+| 5 | [**Quiz 5**](Quizzes/AISC%20Quiz-5.pdf) | Artificial Neural Networks | 10/10 |
+| 6 | [**Quiz 6**](Quizzes/AISC%20Quiz-6.pdf) | Fuzzy Logic and Expert Systems | 10/10 |
 
 ---
 
