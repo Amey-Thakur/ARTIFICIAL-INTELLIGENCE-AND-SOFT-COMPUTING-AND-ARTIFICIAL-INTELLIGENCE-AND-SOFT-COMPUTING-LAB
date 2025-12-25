@@ -253,9 +253,9 @@ Internal assessment evaluations conducted during the course:
 
 ### IAT - 1
 
-| # | Resource | Description |
-|:-:|:---|:---|
-| 1 | [Answer Sheet](Internal%20Assessment%20Test/AMEY_B-50_AISC_IAT-1.pdf) | AISC Internal Assessment Test 1 Answer Sheet |
+| # | Resource | Topic | Date | Marks | View | Description |
+|:-:|:---|:---|:---:|:-:|:-:|:---|
+| 1 | Internal Assessment Test 1 | Artificial Intelligence | September 04, 2021 | 09/10 | [View](Tests/AMEY_B-50_AISC_IAT-1.pdf) | AISC Internal Assessment Test 1 Answer Sheet |
 
 ### IAT - 2
 
