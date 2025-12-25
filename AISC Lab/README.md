@@ -80,6 +80,17 @@ The laboratory component focuses on implementing AI algorithms (Search strategie
 </details>
 
 <details>
+<summary><b>Experiment 10: Case Study on AI Applications</b></summary>
+<br>
+
+| Document | Category | Description | Link |
+|:---|:---|:---|:-:|
+| `AISC_EXPERIMENT_10_B-28_B-31_B-50.pdf` | Case Study | Group Case Study Report | [View](Experiment-10/AISC_EXPERIMENT_10_B-28_B-31_B-50.pdf) |
+| `AISC_EXPERIMENT_10_PPT.pdf` | Presentation | Case Study Presentation | [View](Experiment-10/AISC_EXPERIMENT_10_PPT.pdf) |
+| `Neuro-Fuzzy_Artificial Neural Networks_&_Fuzzy Logic.pdf` | Reference | Topic Reference Material | [View](Experiment-10/Neuro-Fuzzy_Artificial%20Neural%20Networks_&_Fuzzy%20Logic.pdf) |
+</details>
+
+<details>
 <summary><b>Experiment 4: Informed Search (Python)</b></summary>
 <br>
 
