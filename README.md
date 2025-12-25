@@ -253,14 +253,14 @@ The laboratory component (CSL703) focuses on hands-on implementation of AI algor
 <table>
   <tr>
     <td align="center"><a href="https://github.com/Amey-Thakur"><img src="https://avatars.githubusercontent.com/u/56967609?v=4" width="100px;" alt=""/><br /><sub><b>Amey Thakur</b></sub></a></td>
-    <td align="center"><a href="https://github.com/KaranDhiman"><img src="https://avatars.githubusercontent.com/u/0?v=4" width="100px;" alt=""/><br /><sub><b>Karan Dhiman</b></sub></a></td>
+    <td align="center"><a href="https://github.com/Karan-Dhiman"><img src="https://github.com/Karan-Dhiman.png" width="100px;" alt=""/><br /><sub><b>Karan Dhiman</b></sub></a></td>
   </tr>
 </table>
 
 </div>
 
 > [!IMPORTANT]
-> **Special Acknowledgement**: Special thanks to **Karan Dhiman** for his meaningful contributions, guidance, and support that helped shape this work.
+> **Special Acknowledgement**: Special thanks to [**Karan Dhiman**](https://github.com/Karan-Dhiman) for his meaningful contributions, guidance, and support that helped shape this work.
 
 #### Project Overview
 
