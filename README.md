@@ -145,6 +145,97 @@ The laboratory component (CSL703) focuses on hands-on implementation of AI algor
 | 9 | To Implement Kohonen self-organizing Map- un-supervised learning algorithm | October 06, 2021 | [View](AISC%20Lab/Experiment-9/AMEY_B-50_AI&SC_EXPERIMENT-9.pdf) |
 | 10 | Case Study: Neuro-Fuzzy - Artificial Neural Networks & Fuzzy Logic | October 22, 2021 | [View](AISC%20Lab/Experiment-10/AMEY_B-50_AI_SC_EXPERIMENT-10.pdf) |
 
+### Program Details
+
+<details>
+<summary><b>Experiment 2: Family Tree (PROLOG)</b></summary>
+<br>
+
+| Program | Category | Description | Code |
+|:---|:---|:---|:-:|
+| `Family_Tree_Abstract.pl` | Logic Programming | Knowledge base for basic family relationships (Abstract) | [View](AISC%20Lab/Experiment-2/Family_Tree_Abstract.pl) |
+| `Family_Tree_Concrete.pl` | Logic Programming | Knowledge base for extended family relationships (Concrete) | [View](AISC%20Lab/Experiment-2/Family_Tree_Concrete.pl) |
+</details>
+
+<details>
+<summary><b>Experiment 3: Uninformed Search (C)</b></summary>
+<br>
+
+| Program | Category | Description | Code |
+|:---|:---|:---|:-:|
+| `Uninformed_Search_BFS.c` | Search Strategy | Implementation of Breadth-First Search (BFS) | [View](AISC%20Lab/Experiment-3/Uninformed_Search_BFS.c) |
+| `Uninformed_Search_DFS.c` | Search Strategy | Implementation of Depth-First Search (DFS) | [View](AISC%20Lab/Experiment-3/Uninformed_Search_DFS.c) |
+</details>
+
+<details>
+<summary><b>Experiment 4: Informed Search (Python)</b></summary>
+<br>
+
+| Program | Category | Description | Code |
+|:---|:---|:---|:-:|
+| `Informed_Search_AStar.py` | Python Programming | Implementation of A* Algorithm | [View](AISC%20Lab/Experiment-4/Informed_Search_AStar.py) |
+</details>
+
+<details>
+<summary><b>Experiment 5: Flower Classification (Weka)</b></summary>
+<br>
+
+| Resource | Category | Description | Link |
+|:---|:---|:---|:-:|
+| `Flowers.arff` | Weka Dataset | Flower Classification Database | [View](AISC%20Lab/Experiment-5/Flowers.arff) |
+| `Model` | Analysis | Learned Models | [View](AISC%20Lab/Experiment-5/Model) |
+| `Output` | Results | Classification Accuracy Results | [View](AISC%20Lab/Experiment-5/Output) |
+</details>
+
+<details>
+<summary><b>Experiment 6: Fuzzy Relations (C)</b></summary>
+<br>
+
+| Program | Category | Description | Code |
+|:---|:---|:---|:-:|
+| `Fuzzy_Relations_Composition.c` | Soft Computing | Fuzzy Relations Composition (Max-Min & Max-Product) | [View](AISC%20Lab/Experiment-6/Fuzzy_Relations_Composition.c) |
+</details>
+
+<details>
+<summary><b>Experiment 7: Fuzzy Controller (MATLAB)</b></summary>
+<br>
+
+| Program | Category | Description | Code |
+|:---|:---|:---|:-:|
+| `Fuzzy_Controller.m.txt` | Soft Computing | Fuzzy Logic Controller Implementation | [View](AISC%20Lab/Experiment-7/Fuzzy_Controller.m.txt) |
+</details>
+
+<details>
+<summary><b>Experiment 8: McCulloch Pitts Neuron (Python)</b></summary>
+<br>
+
+| Program | Category | Description | Code |
+|:---|:---|:---|:-:|
+| `McCulloch_Pitts_Neuron.py` | Neural Networks | McCulloch Pitts Neuron Model for AND/OR | [View](AISC%20Lab/Experiment-8/McCulloch_Pitts_Neuron.py) |
+| `McCulloch_Pitts_Neuron.ipynb` | Neural Networks | Interactive Notebook | [View](AISC%20Lab/Experiment-8/McCulloch_Pitts_Neuron.ipynb) |
+</details>
+
+<details>
+<summary><b>Experiment 9: Kohonen SOM (MATLAB)</b></summary>
+<br>
+
+| Program | Category | Description | Code |
+|:---|:---|:---|:-:|
+| `Kohonen_SOM.m.txt` | Neural Networks | Kohonen Self-Organizing Map Implementation | [View](AISC%20Lab/Experiment-9/Kohonen_SOM.m.txt) |
+</details>
+
+<details>
+<summary><b>Experiment 10: Case Study (Neuro-Fuzzy)</b></summary>
+<br>
+
+| Document | Category | Description | Link |
+|:---|:---|:---|:-:|
+| `AMEY_B-50_AI_SC_EXPERIMENT-10.pdf` | Report | Individual Experiment Report | [View](AISC%20Lab/Experiment-10/AMEY_B-50_AI_SC_EXPERIMENT-10.pdf) |
+| `AISC_EXPERIMENT_10_B-28_B-31_B-50.pdf` | Case Study | Group Case Study Report | [View](AISC%20Lab/Experiment-10/AISC_EXPERIMENT_10_B-28_B-31_B-50.pdf) |
+| `AISC_EXPERIMENT_10_PPT.pdf` | Presentation | Case Study Presentation | [View](AISC%20Lab/Experiment-10/AISC_EXPERIMENT_10_PPT.pdf) |
+| `Neuro-Fuzzy_Artificial Neural Networks_&_Fuzzy Logic.pdf` | Reference | Topic Reference Material | [View](AISC%20Lab/Experiment-10/Neuro-Fuzzy_Artificial%20Neural%20Networks_&_Fuzzy%20Logic.pdf) |
+</details>
+
 ### Laboratory Documentation
 
 | # | Resource | Description |
