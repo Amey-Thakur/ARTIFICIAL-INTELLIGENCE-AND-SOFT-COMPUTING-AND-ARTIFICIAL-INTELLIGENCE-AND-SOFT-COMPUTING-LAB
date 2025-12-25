@@ -143,7 +143,7 @@ The laboratory component (CSL703) focuses on hands-on implementation of AI algor
 | 7 | To Implement Fuzzy-Controller | October 02, 2021 | [View](AISC%20Lab/Experiment-7/AMEY_B-50_AI&SC_EXPERIMENT-7.pdf) |
 | 8 | To implement McCulloch Pitts Neuron Model for AND/OR functions | October 05, 2021 | [View](AISC%20Lab/Experiment-8/AMEY_B-50_AI&SC_EXPERIMENT-8.pdf) |
 | 9 | To Implement Kohonen self-organizing Map- un-supervised learning algorithm | October 06, 2021 | [View](AISC%20Lab/Experiment-9/AMEY_B-50_AI&SC_EXPERIMENT-9.pdf) |
-| 10 | Case Study on AI Applications | October 05, 2021 | [View](AISC%20Lab/Experiment-10/AMEY_B-50_AI_SC_EXPERIMENT-10.pdf) |
+| 10 | Case Study: Neuro-Fuzzy - Artificial Neural Networks & Fuzzy Logic | October 22, 2021 | [View](AISC%20Lab/Experiment-10/AMEY_B-50_AI_SC_EXPERIMENT-10.pdf) |
 
 ### Laboratory Documentation
 
