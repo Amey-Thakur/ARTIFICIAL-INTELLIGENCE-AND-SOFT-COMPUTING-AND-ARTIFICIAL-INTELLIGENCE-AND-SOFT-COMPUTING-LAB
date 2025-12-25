@@ -279,7 +279,7 @@ A hybrid Neuro-Fuzzy system developed as a case study for the Artificial Intelli
 > - [Preprint @viXra](https://vixra.org/abs/2109.0047)
 > - [Published Paper @IJRASET](https://doi.org/10.22214/ijraset.2021.37930)
 
-#### Resources
+### Resources
 
 | # | Resource | Description | Date | Marks | Link |
 |:-:|:---|:---|:-:|:-:|:-:|
