@@ -130,7 +130,7 @@ The laboratory component (CSL703) focuses on hands-on implementation of AI algor
 </div>
 
 > [!TIP]
-> **Implementation Note**: The laboratory work involves multiple languages including **Python**, **PROLOG**, and **C/C++**, reflecting the diverse tooling in the AI landscape.
+> **Prerequisites**: This laboratory requires a versatile development setup. Ensure you have **SWI-Prolog** installed for logic programming (Exp 2), a **C/C++ Compiler** for search algorithms (Exp 3-4), and **MATLAB/Python** (with NumPy) for neural networks and fuzzy logic simulations.
 
 | # | Experiment | Date | Marks | Report |
 |:-:|:---|:---:|:-:|:-:|
