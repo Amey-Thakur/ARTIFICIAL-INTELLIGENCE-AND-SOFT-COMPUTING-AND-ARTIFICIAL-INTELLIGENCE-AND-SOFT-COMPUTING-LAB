@@ -103,7 +103,7 @@ Academic assignments for comprehensive learning and practice:
 
 AISC-specific quizzes conducted during the course:
 
-| # | Quiz | Description | Marks |
+| # | Quiz | Topics | Marks |
 |:-:|:---|:---|:-:|
 | 1 | [**Quiz 1**](Quizzes/AISC%20Quiz-1.pdf) | Introduction to AI | 10 |
 | 2 | [**Quiz 2**](Quizzes/AISC%20Quiz-2.pdf) | Search Strategies | 10 |
