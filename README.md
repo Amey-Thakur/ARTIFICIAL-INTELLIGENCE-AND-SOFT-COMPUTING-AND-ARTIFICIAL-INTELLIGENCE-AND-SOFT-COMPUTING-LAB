@@ -134,15 +134,15 @@ The laboratory component (CSL703) focuses on hands-on implementation of AI algor
 
 | # | Experiment | Date | Marks | Report |
 |:-:|:---|:---:|:-:|:-:|
-| 1 | Identify a problem statement relevant to AI and describe its PEAS Descriptors with its Properties | July 27, 2021 | 9 | [View](AISC%20Lab/Experiment-1/AMEY_B-50_AI&SC_EXPERIMENT-1.pdf) |
-| 2 | A case study on Basic Programming in PROLOG and Develop a program to implement a family tree | August 03, 2021 | 10 | [View](AISC%20Lab/Experiment-2/AMEY_B-50_AI&SC_EXPERIMENT-2.pdf) |
-| 3 | To Implement uninformed search methods using C or Java | August 10, 2021 | 9 | [View](AISC%20Lab/Experiment-3/AMEY_B-50_AI&SC_EXPERIMENT-3.pdf) |
-| 4 | To Implement informed A* search methods using C or Java | August 20, 2021 | 9 | [View](AISC%20Lab/Experiment-4/AMEY_B-50_AI&SC_EXPERIMENT-4.pdf) |
+| 1 | Identify a problem statement relevant to AI and describe its PEAS Descriptors with its Properties | July 27, 2021 | 9/10 | [View](AISC%20Lab/Experiment-1/AMEY_B-50_AI&SC_EXPERIMENT-1.pdf) |
+| 2 | A case study on Basic Programming in PROLOG and Develop a program to implement a family tree | August 03, 2021 | 10/10 | [View](AISC%20Lab/Experiment-2/AMEY_B-50_AI&SC_EXPERIMENT-2.pdf) |
+| 3 | To Implement uninformed search methods using C or Java | August 10, 2021 | 9/10 | [View](AISC%20Lab/Experiment-3/AMEY_B-50_AI&SC_EXPERIMENT-3.pdf) |
+| 4 | To Implement informed A* search methods using C or Java | August 20, 2021 | 9/10 | [View](AISC%20Lab/Experiment-4/AMEY_B-50_AI&SC_EXPERIMENT-4.pdf) |
 | 5 | Identify the Classification problem and create a Knowledge database for that problem and apply appropriate search methods for optimization | August 24, 2021 | 10/10 | [View](AISC%20Lab/Experiment-5/AMEY_B-50_AI&SC_EXPERIMENT-5.pdf) |
-| 6 | To implement a program to calculate cartesian product on fuzzy relation using 1. Max-Min and 2. Max-Product composition | September 21, 2021 | 8 | [View](AISC%20Lab/Experiment-6/AMEY_B-50_AI&SC_EXPERIMENT-6.pdf) |
-| 7 | To Implement Fuzzy-Controller | October 02, 2021 | 9 | [View](AISC%20Lab/Experiment-7/AMEY_B-50_AI&SC_EXPERIMENT-7.pdf) |
-| 8 | To implement McCulloch Pitts Neuron Model for AND/OR functions | October 05, 2021 | 9 | [View](AISC%20Lab/Experiment-8/AMEY_B-50_AI&SC_EXPERIMENT-8.pdf) |
-| 9 | To Implement Kohonen self-organizing Map- un-supervised learning algorithm | October 06, 2021 | 9 | [View](AISC%20Lab/Experiment-9/AMEY_B-50_AI&SC_EXPERIMENT-9.pdf) |
+| 6 | To implement a program to calculate cartesian product on fuzzy relation using 1. Max-Min and 2. Max-Product composition | September 21, 2021 | 8/10 | [View](AISC%20Lab/Experiment-6/AMEY_B-50_AI&SC_EXPERIMENT-6.pdf) |
+| 7 | To Implement Fuzzy-Controller | October 02, 2021 | 9/10 | [View](AISC%20Lab/Experiment-7/AMEY_B-50_AI&SC_EXPERIMENT-7.pdf) |
+| 8 | To implement McCulloch Pitts Neuron Model for AND/OR functions | October 05, 2021 | 9/10 | [View](AISC%20Lab/Experiment-8/AMEY_B-50_AI&SC_EXPERIMENT-8.pdf) |
+| 9 | To Implement Kohonen self-organizing Map- un-supervised learning algorithm | October 06, 2021 | 9/10 | [View](AISC%20Lab/Experiment-9/AMEY_B-50_AI&SC_EXPERIMENT-9.pdf) |
 | 10 | Case Study: Neuro-Fuzzy - Artificial Neural Networks & Fuzzy Logic | October 22, 2021 | 9/10 | [View](AISC%20Lab/Experiment-10/AMEY_B-50_AI_SC_EXPERIMENT-10.pdf) |
 
 ### Program Details
