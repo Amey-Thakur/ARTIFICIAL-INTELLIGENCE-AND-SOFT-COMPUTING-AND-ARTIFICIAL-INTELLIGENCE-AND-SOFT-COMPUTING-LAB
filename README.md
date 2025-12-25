@@ -89,13 +89,13 @@ This collection includes **comprehensive reference materials** covering all majo
 
 Academic assignments for comprehensive learning and practice:
 
-| # | Assignment | Description |
-|:-:|:---|:---|
-| 1 | [**Assignment 1**](Assignments/AMEY_B-50_AI&SC_ASSIGNMENT-1.pdf) | Intelligent Agents and Search Strategies |
-| 2 | [**Assignment 2**](Assignments/AMEY_B-50_AI&SC_ASSIGNMENT-2.pdf) | Knowledge Representation and Logic |
-| 3 | [**Assignment 3**](Assignments/AMEY_B-50_AI&SC_ASSIGNMENT-3.pdf) | Soft Computing: Neural Networks and Fuzzy Logic |
+| # | Assignment | Description | Date | Marks |
+|:-:|:---|:---|:---:|:-:|
+| 1 | [**Assignment 1**](Assignments/AMEY_B-50_AI&SC_ASSIGNMENT-1.pdf) | Intelligent Agents, PEAS, A* Algorithm, Resolution Logic | October 22, 2021 | 10/10 |
+| 2 | [**Assignment 2**](Assignments/AMEY_B-50_AI&SC_ASSIGNMENT-2.pdf) | Fuzzy Logic, Perceptron Learning rule, EBPTA, ANFIS, Genetic Algorithm steps | October 22, 2021 | 10/10 |
+| 3 | [**Assignment 3**](Assignments/AMEY_B-50_AI&SC_ASSIGNMENT-3.pdf) | AI Tools and Libraries (Detailed description and architecture) | October 22, 2021 | 10/10 |
 
-**Topics Covered**: Fundamentals of AI · Search Algorithms · Logic Programming · Neural Networks · Fuzzy Logic
+**Topics Covered**: Fundamentals of AI · Intelligent Agents · Search Algorithms · Logic Programming · Fuzzy Logic · Neural Networks · Genetic Algorithms · AI Tools
 
 ---
 
