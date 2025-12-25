@@ -130,7 +130,7 @@ The laboratory component (CSL703) focuses on hands-on implementation of AI algor
 </div>
 
 > [!TIP]
-> **Prerequisites**: This laboratory requires a versatile development setup. Ensure you have **SWI-Prolog** installed for logic programming (Exp 2), a **C/C++ Compiler** for search algorithms (Exp 3-4), and **MATLAB/Python** (with NumPy) for neural networks and fuzzy logic simulations.
+> **Prerequisites**: This laboratory requires a versatile development setup. Ensure you have **SWI-Prolog** installed for logic programming (Experiment 2), a **C/C++ Compiler** for search algorithms (Experiments 3-4), and **MATLAB/Python** (with NumPy) for neural networks and fuzzy logic simulations.
 
 | # | Experiment | Date | Marks | Report |
 |:-:|:---|:---:|:-:|:-:|
