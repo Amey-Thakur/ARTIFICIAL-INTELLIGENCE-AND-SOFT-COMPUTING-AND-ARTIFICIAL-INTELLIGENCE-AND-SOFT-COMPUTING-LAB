@@ -317,8 +317,8 @@ Course completion documentation with exit survey:
 
 | # | Document | Description |
 |:-:|:---|:---|
-| 1 | [Exit Survey (Lab)](Submission%20Report/AI%20&%20SC-Lab-Exit-Survey.pdf) | Course outcome survey for AISC Lab |
-| 2 | [Submission Report](Submission%20Report/AMEY_B-50_AI&SC_SUBMISSION_REPORT.pdf) | Comprehensive submission report |
+| 1 | [Submission Report](Submission%20Report/AMEY_B-50_AI&SC_SUBMISSION_REPORT.pdf) | Final coursework submission report |
+| 2 | [Exit Survey (Lab)](Submission%20Report/AI%20&%20SC-Lab-Exit-Survey.pdf) | Course outcome survey for AISC Lab |
 
 ---
 
