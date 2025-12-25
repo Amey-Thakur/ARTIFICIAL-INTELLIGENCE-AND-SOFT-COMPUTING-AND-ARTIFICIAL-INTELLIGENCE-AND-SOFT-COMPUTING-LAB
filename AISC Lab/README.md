@@ -46,7 +46,7 @@ The laboratory component focuses on implementing AI algorithms (Search strategie
 | 3 | To Implement uninformed search methods using C or Java | August 10, 2021 | [View](Experiment-3/AMEY_B-50_AI&SC_EXPERIMENT-3.pdf) |
 | 4 | To Implement informed A* search methods using C or Java | August 20, 2021 | [View](Experiment-4/AMEY_B-50_AI&SC_EXPERIMENT-4.pdf) |
 | 5 | Identify the Classification problem and create a Knowledge database for that problem and apply appropriate search methods for optimization | August 24, 2021 | [View](Experiment-5/AMEY_B-50_AI&SC_EXPERIMENT-5.pdf) |
-| 6 | Implementation of Perceptron Learning Algorithm | August 31, 2021 | [View](Experiment-6/AMEY_B-50_AI&SC_EXPERIMENT-6.pdf) |
+| 6 | To implement a program to calculate cartesian product on fuzzy relation using 1. Max-Min and 2. Max-Product composition | September 21, 2021 | [View](Experiment-6/AMEY_B-50_AI&SC_EXPERIMENT-6.pdf) |
 | 7 | Implementation of Backpropagation Algorithm | September 07, 2021 | [View](Experiment-7/AMEY_B-50_AI&SC_EXPERIMENT-7.pdf) |
 | 8 | Implementation of Fuzzy Logic using Membership Functions | September 14, 2021 | [View](Experiment-8/AMEY_B-50_AI&SC_EXPERIMENT-8.pdf) |
 | 9 | Implementation of Membrane Computing | September 21, 2021 | [View](Experiment-9/AMEY_B-50_AI&SC_EXPERIMENT-9.pdf) |
@@ -100,12 +100,12 @@ The laboratory component focuses on implementing AI algorithms (Search strategie
 </details>
 
 <details>
-<summary><b>Experiment 6: Perceptron Learning (C)</b></summary>
+<summary><b>Experiment 6: Fuzzy Relations (C)</b></summary>
 <br>
 
 | Program | Category | Description | Code |
 |:---|:---|:---|:-:|
-| `experiment6.c` | Neural Networks | Perceptron Learning Algorithm | [View](Experiment-6/experiment6.c) |
+| `Fuzzy_Relations_Composition.c` | Soft Computing | Fuzzy Relations Composition (Max-Min & Max-Product) | [View](Experiment-6/Fuzzy_Relations_Composition.c) |
 </details>
 
 <details>
