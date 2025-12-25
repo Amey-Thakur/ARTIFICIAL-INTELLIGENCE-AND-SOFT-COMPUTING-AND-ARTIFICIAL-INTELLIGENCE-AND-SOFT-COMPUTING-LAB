@@ -10,6 +10,7 @@
   [![Curated by](https://img.shields.io/badge/Curated%20by-Amey%20Thakur-blue.svg)](https://github.com/Amey-Thakur)
   [![Documents](https://img.shields.io/badge/Documents-10-yellowgreen.svg)](#experiment-1-problem-statement-formulation)
   [![Language](https://img.shields.io/badge/Language-Python%20%7C%20PROLOG%20%7C%20C%20%7C%20MATLAB-orange.svg)](./)
+  [![Type](https://img.shields.io/badge/Type-PDF%20%7C%20DOCX-blueviolet.svg)](./)
 
   **A comprehensive collection of laboratory experiments for Artificial Intelligence and Soft Computing, covering search strategies, knowledge representation, neural networks, fuzzy logic, and genetic algorithms.**
 
