@@ -137,7 +137,7 @@ The laboratory component (CSL703) focuses on hands-on implementation of AI algor
 | 1 | Identify a problem statement relevant to AI and describe its PEAS Descriptors with its Properties | July 27, 2021 | [View](AISC%20Lab/Experiment-1/AMEY_B-50_AI&SC_EXPERIMENT-1.pdf) |
 | 2 | A case study on Basic Programming in PROLOG and Develop a program to implement a family tree | August 03, 2021 | [View](AISC%20Lab/Experiment-2/AMEY_B-50_AI&SC_EXPERIMENT-2.pdf) |
 | 3 | To Implement uninformed search methods using C or Java | August 10, 2021 | [View](AISC%20Lab/Experiment-3/AMEY_B-50_AI&SC_EXPERIMENT-3.pdf) |
-| 4 | Implementation of Informed Search (A* Algorithm) | August 10, 2021 | [View](AISC%20Lab/Experiment-4/AMEY_B-50_AI&SC_EXPERIMENT-4.pdf) |
+| 4 | To Implement informed A* search methods using C or Java | August 20, 2021 | [View](AISC%20Lab/Experiment-4/AMEY_B-50_AI&SC_EXPERIMENT-4.pdf) |
 | 5 | Supervised Learning using Weka Tool | August 24, 2021 | [View](AISC%20Lab/Experiment-5/AMEY_B-50_AI&SC_EXPERIMENT-5.pdf) |
 | 6 | Implementation of Perceptron Learning Algorithm | August 31, 2021 | [View](AISC%20Lab/Experiment-6/AMEY_B-50_AI&SC_EXPERIMENT-6.pdf) |
 | 7 | Implementation of Backpropagation Algorithm | September 07, 2021 | [View](AISC%20Lab/Experiment-7/AMEY_B-50_AI&SC_EXPERIMENT-7.pdf) |
