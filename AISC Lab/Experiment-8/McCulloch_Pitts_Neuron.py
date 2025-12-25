@@ -9,7 +9,7 @@
 # Date: 05-10-2021
 #
 # Repository: https://github.com/Amey-Thakur/ARTIFICIAL-INTELLIGENCE-AND-SOFT-COMPUTING-AND-ARTIFICIAL-INTELLIGENCE-AND-SOFT-COMPUTING-LAB
-% Profile: https://github.com/Amey-Thakur
+# Profile: https://github.com/Amey-Thakur
 # =========================================================================================
 #
 # Subject: Artificial Intelligence and Soft Computing (AISC)
