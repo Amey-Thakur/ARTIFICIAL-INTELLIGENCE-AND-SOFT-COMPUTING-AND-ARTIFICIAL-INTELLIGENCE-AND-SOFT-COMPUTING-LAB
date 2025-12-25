@@ -277,17 +277,51 @@ To Implement Kohonen self-organizing Map- un-supervised learning algorithm.
      ========================================================================================= -->
 ## Experiment 10: Case Study
 
-Case Study: Neuro-Fuzzy - Artificial Neural Networks & Fuzzy Logic.
+<div align="center">
+
+  ### 🧠 [Neuro-Fuzzy: Artificial Neural Networks & Fuzzy Logic](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=0inooPgAAAAJ&citation_for_view=0inooPgAAAAJ:hqOjcs7Dif8C)
+
+  **Design and Implementation of a Neuro-Fuzzy System using Artificial Neural Networks and Fuzzy Logic**
+
+  [![Project](https://img.shields.io/badge/Project-Case%20Study-purple.svg)](Experiment-10/AISC_EXPERIMENT_10_B-28_B-31_B-50.pdf)
+  [![Stack](https://img.shields.io/badge/Stack-Python%20%7C%20MATLAB-blue.svg)](Experiment-10/AISC_EXPERIMENT_10_B-28_B-31_B-50.pdf)
+  [![Status](https://img.shields.io/badge/Status-Completed-brightgreen.svg)](Experiment-10/AISC_EXPERIMENT_10_B-28_B-31_B-50.pdf)
+
+</div>
+
+<div align="center">
+
+  #### 👥 Authors
+  | <img src="https://github.com/Amey-Thakur.png" width="150" alt="Amey Thakur"><br>[**Amey Thakur**](https://github.com/Amey-Thakur) | <img src="https://github.com/Karan-Dhiman.png" width="150" alt="Karan Dhiman"><br>[**Karan Dhiman**](https://github.com/Karan-Dhiman) |
+  | :---: | :---: |
+
+</div>
+
+> [!IMPORTANT]
+> ### 🤝🏻 Special Acknowledgement
+> *Special thanks to [Karan Dhiman](https://github.com/Karan-Dhiman) for his meaningful contributions, guidance, and support that helped shape this work.*
+
+#### Project Overview
+
+A hybrid Neuro-Fuzzy system developed as a case study for the Artificial Intelligence and Soft Computing Lab. This system integrates the learning capabilities of Artificial Neural Networks with the reasoning power of Fuzzy Logic to create a robust model for pattern recognition and decision making. By combining these paradigms, the project demonstrates how to handle complex, non-linear data processing tasks effectively.
+
+> [!NOTE]
+> **Research Impact**: This project was published as a research paper in **International Journal for Research in Applied Science & Engineering Technology (IJRASET)** (Volume 9, Issue IX) and is also available as a preprint on **viXra**.
+> - [Preprint @viXra](https://vixra.org/abs/2109.0047)
+> - [Published Paper @IJRASET](https://doi.org/10.22214/ijraset.2021.37930)
 
 **Date:** October 22, 2021
 
+#### Resources
+
 | # | Document | Description | Link |
 |:-:|:---|:---|:-:|
-| 1 | AMEY_B-50_AI_SC_EXPERIMENT-10.pdf | Individual Experiment Report | [View](Experiment-10/AMEY_B-50_AI_SC_EXPERIMENT-10.pdf) |
-| 2 | AISC_EXPERIMENT_10_B-28_B-31_B-50.pdf | Group Case Study Report | [View](Experiment-10/AISC_EXPERIMENT_10_B-28_B-31_B-50.pdf) |
-| 3 | AISC_EXPERIMENT_10_PPT.pdf | Case Study Presentation | [View](Experiment-10/AISC_EXPERIMENT_10_PPT.pdf) |
-| 4 | Neuro-Fuzzy_..._&_Fuzzy Logic.pdf | Topic Reference Material | [View](Experiment-10/Neuro-Fuzzy_Artificial%20Neural%20Networks_&_Fuzzy%20Logic.pdf) |
-| — | Lab Report (DOCX) | Editable report file | [Download](Experiment-10/AMEY_B-50_AI_SC_EXPERIMENT-10.docx) |
+| 1 | **Individual Report** | Individual Experiment Report | [View](Experiment-10/AMEY_B-50_AI_SC_EXPERIMENT-10.pdf) |
+| 2 | **Case Study Report** | Detailed documentation and system design | [View](Experiment-10/AISC_EXPERIMENT_10_B-28_B-31_B-50.pdf) |
+| 3 | **Presentation** | Visual overview of the development lifecycle | [View](Experiment-10/AISC_EXPERIMENT_10_PPT.pdf) |
+| 4 | **Research Paper** | Neuro-Fuzzy: Artificial Neural Networks & Fuzzy Logic | [View](Experiment-10/Neuro-Fuzzy_Artificial%20Neural%20Networks_&_Fuzzy%20Logic.pdf) |
+| 5 | **ResearchGate** | Research paper available on ResearchGate | [View](https://www.researchgate.net/publication/354402722_Neuro-Fuzzy_Artificial_Neural_Networks_Fuzzy_Logic) |
+| — | **Lab Report (DOCX)** | Editable report file | [Download](Experiment-10/AMEY_B-50_AI_SC_EXPERIMENT-10.docx) |
 
 ---
 
