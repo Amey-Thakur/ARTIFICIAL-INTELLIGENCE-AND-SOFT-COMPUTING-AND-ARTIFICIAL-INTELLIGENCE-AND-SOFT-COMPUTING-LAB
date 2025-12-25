@@ -349,7 +349,7 @@ Use these resources as reference materials for understanding AI algorithms, soft
 These materials may serve as curriculum references, lab examples, or supplementary teaching resources. Attribution is appreciated when utilizing content.
 
 **For Researchers**  
-The documentation and organization may provide insights into academic resource curation and educational content structuring.
+The documentation and organization may provide insights into academic resource curation and educational content structuring for Artificial Intelligence and Soft Computing courses.
 
 ---
 
