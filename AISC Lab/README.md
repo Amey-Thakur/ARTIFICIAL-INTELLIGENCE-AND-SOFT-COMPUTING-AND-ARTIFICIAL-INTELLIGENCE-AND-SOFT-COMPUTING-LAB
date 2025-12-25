@@ -50,7 +50,7 @@ The laboratory component focuses on implementing AI algorithms (Search strategie
 | 7 | To Implement Fuzzy-Controller | October 02, 2021 | [View](Experiment-7/AMEY_B-50_AI&SC_EXPERIMENT-7.pdf) |
 | 8 | To implement McCulloch Pitts Neuron Model for AND/OR functions | October 05, 2021 | [View](Experiment-8/AMEY_B-50_AI&SC_EXPERIMENT-8.pdf) |
 | 9 | To Implement Kohonen self-organizing Map- un-supervised learning algorithm | October 06, 2021 | [View](Experiment-9/AMEY_B-50_AI&SC_EXPERIMENT-9.pdf) |
-| 10 | Case Study on AI Applications | October 05, 2021 | [View](Experiment-10) |
+| 10 | Case Study on AI Applications | October 05, 2021 | [View](Experiment-10/AMEY_B-50_AI_SC_EXPERIMENT-10.pdf) |
 
 ---
 
@@ -85,6 +85,7 @@ The laboratory component focuses on implementing AI algorithms (Search strategie
 
 | Document | Category | Description | Link |
 |:---|:---|:---|:-:|
+| `AMEY_B-50_AI_SC_EXPERIMENT-10.pdf` | Report | Individual Experiment Report | [View](Experiment-10/AMEY_B-50_AI_SC_EXPERIMENT-10.pdf) |
 | `AISC_EXPERIMENT_10_B-28_B-31_B-50.pdf` | Case Study | Group Case Study Report | [View](Experiment-10/AISC_EXPERIMENT_10_B-28_B-31_B-50.pdf) |
 | `AISC_EXPERIMENT_10_PPT.pdf` | Presentation | Case Study Presentation | [View](Experiment-10/AISC_EXPERIMENT_10_PPT.pdf) |
 | `Neuro-Fuzzy_Artificial Neural Networks_&_Fuzzy Logic.pdf` | Reference | Topic Reference Material | [View](Experiment-10/Neuro-Fuzzy_Artificial%20Neural%20Networks_&_Fuzzy%20Logic.pdf) |
