@@ -375,15 +375,15 @@ This repository and all linked academic content are made available under the **C
 **Institution:** [Terna Engineering College](https://ternaengg.ac.in/), Navi Mumbai  
 **University:** [University of Mumbai](https://mu.ac.in/)
 
-This repository represents a comprehensive collection of study materials, reference books, assignments, quizzes, and lab reports curated during my academic journey. All content has been carefully organized and documented to serve as a valuable resource for students pursuing Artificial Intelligence and Soft Computing.
+This repository represents a comprehensive collection of study materials, reference books, assignments, quizzes, and lab reports curated during my academic journey. All content has been carefully organized and documented to serve as a valuable resource for students pursuing Artificial Intelligence and Soft Computing and Artificial Intelligence and Soft Computing Lab.
 
 **Connect:** [GitHub](https://github.com/Amey-Thakur) · [LinkedIn](https://www.linkedin.com/in/amey-thakur)
 
 ### Acknowledgments
 
-Special thanks to the faculty members of the Department of Computer Engineering at Terna Engineering College for their guidance in Artificial Intelligence and Soft Computing. Their support helped develop a strong understanding of intelligent systems and soft computing paradigms.
+Special thanks to the faculty members of the Department of Computer Engineering at Terna Engineering College for their guidance and instruction in Artificial Intelligence and Soft Computing. Their clear teaching and continued support helped develop a strong understanding of intelligent systems and soft computing paradigms.
 
-Special thanks to the mentors and peers whose encouragement, discussions, and support contributed meaningfully to this learning experience.
+Special thanks to the mentors and peers whose encouragement, discussions, and support contributed meaningfully to this learning experience in artificial intelligence and soft computing.
 
 ---
 
