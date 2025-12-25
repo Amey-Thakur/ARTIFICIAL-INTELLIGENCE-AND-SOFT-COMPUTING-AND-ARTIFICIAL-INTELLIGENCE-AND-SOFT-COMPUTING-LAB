@@ -327,7 +327,7 @@ Course completion documentation with exit survey:
      ========================================================================================= -->
 ## Syllabus
 
-> [Official CBCGS Syllabus](Syllabus/TE%20BE%20Comp%20Engg%20CBCGS%20Syllabus.pdf)  
+> [**Official CBCGS Syllabus**](Syllabus/TE%20BE%20Comp%20Engg%20CBCGS%20Syllabus.pdf)  
 > Complete Final Year Computer Engineering syllabus document from the University of Mumbai, including detailed course outcomes, assessment criteria, and module specifications for AISC and AISC Lab.
 
 > [!IMPORTANT]
