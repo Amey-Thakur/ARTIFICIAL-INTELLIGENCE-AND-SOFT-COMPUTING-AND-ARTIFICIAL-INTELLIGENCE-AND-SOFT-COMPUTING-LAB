@@ -125,7 +125,7 @@ The laboratory component (CSL703) focuses on hands-on implementation of AI algor
 
   [![Total Experiments](https://img.shields.io/badge/Total%20Experiments-10-yellowgreen.svg)](AISC%20Lab/)
   [![Status](https://img.shields.io/badge/Status-Complete-brightgreen.svg)](AISC%20Lab/)
-  [![Language](https://img.shields.io/badge/Language-Python%20%7C%20PROLOG%20%7C%20C-orange.svg)](AISC%20Lab/)
+  [![Language](https://img.shields.io/badge/Language-Python%20%7C%20PROLOG%20%7C%20C%20%7C%20MATLAB-orange.svg)](AISC%20Lab/)
 
 </div>
 
