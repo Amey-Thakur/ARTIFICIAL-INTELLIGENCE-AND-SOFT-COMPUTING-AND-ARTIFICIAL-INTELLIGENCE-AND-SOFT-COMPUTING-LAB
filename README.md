@@ -71,9 +71,9 @@ This collection includes **comprehensive reference materials** covering all majo
 | # | Resource | Focus Area |
 |:-:|:---|:---|
 | 1 | [AI: A Modern Approach (3rd Ed)](Reference%20Books/Artificial%20Intelligence%20A%20Modern%20Approach%20(3rd%20Edition).pdf) | The standard textbook for Artificial Intelligence |
-| 2 | [AISC Topper's Solution](Reference%20Books/AISC%20Topper's%20Solution.pdf) | Solved exams and important questions |
+| 2 | [AISC Toppers Solution](Reference%20Books/AISC%20Topper's%20Solution.pdf) | Solved exams and top-scoring answers |
 | 3 | [AISC Module 1](Reference%20Books/aisc_1.pdf) | Introduction to AI and Intelligent Agents |
-| 4 | [AISC Module 2](Reference%20Books/aisc_2.pdf) | Problem Solving and Search Stategies |
+| 4 | [AISC Module 2](Reference%20Books/aisc_2.pdf) | Problem Solving and Search Strategies |
 | 5 | [AISC Module 3](Reference%20Books/aisc_3.pdf) | Knowledge Representation and Logic |
 | 6 | [AISC Module 4](Reference%20Books/aisc_4.pdf) | AI Planning and Uncertainty |
 | 7 | [AISC Module 5](Reference%20Books/aisc_5.pdf) | Artificial Neural Networks |
