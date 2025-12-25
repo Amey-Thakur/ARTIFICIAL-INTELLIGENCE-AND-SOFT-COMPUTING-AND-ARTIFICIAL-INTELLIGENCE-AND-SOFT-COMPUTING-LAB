@@ -270,7 +270,7 @@ The laboratory component (CSL703) focuses on hands-on implementation of AI algor
 > ### 🤝🏻 Special Acknowledgement
 > *Special thanks to [Karan Dhiman](https://github.com/Karan-Dhiman) for his meaningful contributions, guidance, and support that helped shape this work.*
 
-##### Project Overview
+#### Project Overview
 
 A hybrid Neuro-Fuzzy system developed as a case study for the Artificial Intelligence and Soft Computing Lab. This system integrates the learning capabilities of Artificial Neural Networks with the reasoning power of Fuzzy Logic to create a robust model for pattern recognition and decision making. By combining these paradigms, the project demonstrates how to handle complex, non-linear data processing tasks effectively.
 
