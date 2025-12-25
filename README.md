@@ -246,39 +246,40 @@ The laboratory component (CSL703) focuses on hands-on implementation of AI algor
 
 ### Case Study
 
-#### Neuro-Fuzzy: Artificial Neural Networks & Fuzzy Logic
+<div align="center">
+
+  #### Neuro-Fuzzy: Artificial Neural Networks & Fuzzy Logic
+
+</div>
 
 <div align="center">
 
-<table>
-  <tr>
-    <td align="center"><a href="https://github.com/Amey-Thakur"><img src="https://avatars.githubusercontent.com/u/56967609?v=4" width="100px;" alt=""/><br /><sub><b>Amey Thakur</b></sub></a></td>
-    <td align="center"><a href="https://github.com/Karan-Dhiman"><img src="https://github.com/Karan-Dhiman.png" width="100px;" alt=""/><br /><sub><b>Karan Dhiman</b></sub></a></td>
-  </tr>
-</table>
+  #### 👥 Authors
+  | <img src="https://github.com/Amey-Thakur.png" width="150" alt="Amey Thakur"><br>[**Amey Thakur**](https://github.com/Amey-Thakur) | <img src="https://github.com/Karan-Dhiman.png" width="150" alt="Karan Dhiman"><br>[**Karan Dhiman**](https://github.com/Karan-Dhiman) |
+  | :---: | :---: |
 
 </div>
 
 > [!IMPORTANT]
-> **Special Acknowledgement**: Special thanks to [**Karan Dhiman**](https://github.com/Karan-Dhiman) for his meaningful contributions, guidance, and support that helped shape this work.
+> ### 🤝🏻 Special Acknowledgement
+> *Special thanks to [Karan Dhiman](https://github.com/Karan-Dhiman) for his meaningful contributions, guidance, and support that helped shape this work.*
 
 #### Project Overview
 
-Neuro-Fuzzy is a hybrid system that combines Artificial Neural Networks with Fuzzy Logic. Provides a great deal of freedom when it comes to thinking. This phrase, on the other hand, is frequently used to describe a system that combines both approaches. There are two basic streams of neural network and fuzzy system study. Modelling several elements of the human brain (structure, reasoning, learning, perception, and so on) as well as artificial systems and data: pattern clustering and recognition, function approximation, system parameter estimate, and so on. In general, neural networks and fuzzy logic systems are parameterized nonlinear computing methods for numerical data processing (signals, images, stimuli). These algorithms can be integrated into dedicated hardware or implemented on a general-purpose computer. The network system acquires knowledge through a learning process. Internal parameters are used to store the learned information (weights).
+A hybrid Neuro-Fuzzy system developed as a case study for the Artificial Intelligence and Soft Computing Lab. This system integrates the learning capabilities of Artificial Neural Networks with the reasoning power of Fuzzy Logic to create a robust model for pattern recognition and decision making. By combining these paradigms, the project demonstrates how to handle complex, non-linear data processing tasks effectively.
 
 > [!NOTE]
 > **Research Impact**: This project was published as a research paper in **International Journal for Research in Applied Science & Engineering Technology (IJRASET)** (Volume 9, Issue IX) and is also available as a preprint on **viXra**.
->
-> - **[Preprint @viXra](https://vixra.org/abs/2109.0047)**
-> - **[Published Paper @IJRASET](https://doi.org/10.22214/ijraset.2021.37930)**
+> - [Preprint @viXra](https://vixra.org/abs/2109.0047)
+> - [Published Paper @IJRASET](https://doi.org/10.22214/ijraset.2021.37930)
 
 #### Resources
 
 | # | Resource | Description | Date | Marks | Link |
-|:-:|:---|:---|:---:|:-:|:-:|
-| 1 | Case Study Report | Detailed documentation and system design | October 22, 2021 | 09/10 | [View](AISC%20Lab/Experiment-10/AISC_EXPERIMENT_10_B-28_B-31_B-50.pdf) |
-| 2 | Presentation | Visual overview of the development lifecycle | October 22, 2021 | 09/10 | [View](AISC%20Lab/Experiment-10/AISC_EXPERIMENT_10_PPT.pdf) |
-| 3 | Reference Paper | Neuro-Fuzzy: Artificial Neural Networks & Fuzzy Logic | - | - | [View](AISC%20Lab/Experiment-10/Neuro-Fuzzy_Artificial%20Neural%20Networks_&_Fuzzy%20Logic.pdf) |
+|:-:|:---|:---|:-:|:-:|:-:|
+| 1 | **Case Study Report** | Detailed documentation and system design | October 22, 2021 | **09/10** | [View](AISC%20Lab/Experiment-10/AISC_EXPERIMENT_10_B-28_B-31_B-50.pdf) |
+| 2 | **Presentation** | Visual overview of the development lifecycle | October 22, 2021 | **09/10** | [View](AISC%20Lab/Experiment-10/AISC_EXPERIMENT_10_PPT.pdf) |
+| 3 | **Reference Paper** | Neuro-Fuzzy: Artificial Neural Networks & Fuzzy Logic | - | - | [View](AISC%20Lab/Experiment-10/Neuro-Fuzzy_Artificial%20Neural%20Networks_&_Fuzzy%20Logic.pdf) |
 
 ---
 
