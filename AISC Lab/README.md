@@ -43,7 +43,7 @@ The laboratory component focuses on implementing AI algorithms (Search strategie
 |:-:|:---|:---:|:-:|
 | 1 | Identify a problem statement relevant to AI and describe its PEAS Descriptors with its Properties | July 27, 2021 | [View](Experiment-1/AMEY_B-50_AI&SC_EXPERIMENT-1.pdf) |
 | 2 | A case study on Basic Programming in PROLOG and Develop a program to implement a family tree | August 03, 2021 | [View](Experiment-2/AMEY_B-50_AI&SC_EXPERIMENT-2.pdf) |
-| 3 | Implementation of Uninformed Search (BFS & DFS) | August 03, 2021 | [View](Experiment-3/AMEY_B-50_AI&SC_EXPERIMENT-3.pdf) |
+| 3 | To Implement uninformed search methods using C or Java | August 10, 2021 | [View](Experiment-3/AMEY_B-50_AI&SC_EXPERIMENT-3.pdf) |
 | 4 | Implementation of Informed Search (A* Algorithm) | August 10, 2021 | [View](Experiment-4/AMEY_B-50_AI&SC_EXPERIMENT-4.pdf) |
 | 5 | Supervised Learning using Weka Tool | August 24, 2021 | [View](Experiment-5/AMEY_B-50_AI&SC_EXPERIMENT-5.pdf) |
 | 6 | Implementation of Perceptron Learning Algorithm | August 31, 2021 | [View](Experiment-6/AMEY_B-50_AI&SC_EXPERIMENT-6.pdf) |
@@ -75,8 +75,8 @@ The laboratory component focuses on implementing AI algorithms (Search strategie
 
 | Program | Category | Description | Code |
 |:---|:---|:---|:-:|
-| `BFS.C` | Search Strategy | Breadth First Search Implementation | [View](Experiment-3/BFS.C) |
-| `DFS.C` | Search Strategy | Depth First Search Implementation | [View](Experiment-3/DFS.C) |
+| `Uninformed_Search_BFS.c` | Search Strategy | Implementation of Breadth-First Search (BFS) | [View](Experiment-3/Uninformed_Search_BFS.c) |
+| `Uninformed_Search_DFS.c` | Search Strategy | Implementation of Depth-First Search (DFS) | [View](Experiment-3/Uninformed_Search_DFS.c) |
 </details>
 
 <details>
