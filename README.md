@@ -18,7 +18,7 @@
 
   ---
 
-  [Overview](#overview) &nbsp;·&nbsp; [Contents](#repository-contents) &nbsp;·&nbsp; [Reference Books](#reference-books) &nbsp;·&nbsp; [Assignments](#assignments) &nbsp;·&nbsp; [Quizzes](#quizzes) &nbsp;·&nbsp; [Laboratory](#artificial-intelligence-and-soft-computing-laboratory) &nbsp;·&nbsp; [Case Study](#case-study) &nbsp;·&nbsp; [IAT](#internal-assessment-test) &nbsp;·&nbsp; [Semester Exam](#semester-exam) &nbsp;·&nbsp; [Question Papers](#question-papers) &nbsp;·&nbsp; [Submission Report](#submission-completion-report) &nbsp;·&nbsp; [Syllabus](#syllabus) &nbsp;·&nbsp; [Usage Guidelines](#usage-guidelines) &nbsp;·&nbsp; [License](#license) &nbsp;·&nbsp; [About](#about-this-repository) &nbsp;·&nbsp; [Acknowledgments](#acknowledgments)
+  [Overview](#overview) &nbsp;·&nbsp; [Contents](#repository-contents) &nbsp;·&nbsp; [Reference Books](#reference-books) &nbsp;·&nbsp; [Assignments](#assignments) &nbsp;·&nbsp; [Quizzes](#quizzes) &nbsp;·&nbsp; [Laboratory](#artificial-intelligence-and-soft-computing-laboratory) &nbsp;·&nbsp; [Case Study](#case-study) &nbsp;·&nbsp; [Internal Assessment Test](#internal-assessment-test) &nbsp;·&nbsp; [Semester Exam](#semester-exam) &nbsp;·&nbsp; [Question Papers](#question-papers) &nbsp;·&nbsp; [Submission Report](#submission-completion-report) &nbsp;·&nbsp; [Syllabus](#syllabus) &nbsp;·&nbsp; [Usage Guidelines](#usage-guidelines) &nbsp;·&nbsp; [License](#license) &nbsp;·&nbsp; [About](#about-this-repository) &nbsp;·&nbsp; [Acknowledgments](#acknowledgments)
 
 </div>
 
@@ -91,9 +91,9 @@ Academic assignments for comprehensive learning and practice:
 
 | # | Assignment | Description | Date | Marks |
 |:-:|:---|:---|:---:|:-:|
-| 1 | [**Assignment 1**](Assignments/AMEY_B-50_AI&SC_ASSIGNMENT-1.pdf) | Intelligent Agents, PEAS, A* Algorithm, Resolution Logic | October 22, 2021 | 10/10 |
-| 2 | [**Assignment 2**](Assignments/AMEY_B-50_AI&SC_ASSIGNMENT-2.pdf) | Fuzzy Logic, Perceptron Learning rule, EBPTA, ANFIS, Genetic Algorithm steps | October 22, 2021 | 10/10 |
-| 3 | [**Assignment 3**](Assignments/AMEY_B-50_AI&SC_ASSIGNMENT-3.pdf) | AI Tools and Libraries (Detailed description and architecture) | October 22, 2021 | 10/10 |
+| 1 | [Assignment 1](Assignments/AMEY_B-50_AI&SC_ASSIGNMENT-1.pdf) | Intelligent Agents, PEAS, A* Algorithm, Resolution Logic | October 22, 2021 | 10/10 |
+| 2 | [Assignment 2](Assignments/AMEY_B-50_AI&SC_ASSIGNMENT-2.pdf) | Fuzzy Logic, Perceptron Learning rule, EBPTA, ANFIS, Genetic Algorithm steps | October 22, 2021 | 10/10 |
+| 3 | [Assignment 3](Assignments/AMEY_B-50_AI&SC_ASSIGNMENT-3.pdf) | AI Tools and Libraries (Detailed description and architecture) | October 22, 2021 | 10/10 |
 
 **Topics Covered**: Fundamentals of AI · Intelligent Agents · Search Algorithms · Logic Programming · Fuzzy Logic · Neural Networks · Genetic Algorithms · AI Tools
 
@@ -105,12 +105,12 @@ AISC-specific quizzes conducted during the course:
 
 | # | Quiz | Topics | Marks |
 |:-:|:---|:---|:-:|
-| 1 | [**Quiz 1**](Quizzes/AISC%20Quiz-1.pdf) | Introduction to AI | 10/10 |
-| 2 | [**Quiz 2**](Quizzes/AISC%20Quiz-2.pdf) | Search Strategies | 10/10 |
-| 3 | [**Quiz 3**](Quizzes/AISC%20Quiz-3.pdf) | Knowledge Representation | 9/10 |
-| 4 | [**Quiz 4**](Quizzes/AISC%20Quiz-4.pdf) | Planning and Uncertainty | 10/10 |
-| 5 | [**Quiz 5**](Quizzes/AISC%20Quiz-5.pdf) | Artificial Neural Networks | 10/10 |
-| 6 | [**Quiz 6**](Quizzes/AISC%20Quiz-6.pdf) | Fuzzy Logic and Expert Systems | 10/10 |
+| 1 | [Quiz 1](Quizzes/AISC%20Quiz-1.pdf) | Introduction to AI | 10/10 |
+| 2 | [Quiz 2](Quizzes/AISC%20Quiz-2.pdf) | Search Strategies | 10/10 |
+| 3 | [Quiz 3](Quizzes/AISC%20Quiz-3.pdf) | Knowledge Representation | 9/10 |
+| 4 | [Quiz 4](Quizzes/AISC%20Quiz-4.pdf) | Planning and Uncertainty | 10/10 |
+| 5 | [Quiz 5](Quizzes/AISC%20Quiz-5.pdf) | Artificial Neural Networks | 10/10 |
+| 6 | [Quiz 6](Quizzes/AISC%20Quiz-6.pdf) | Fuzzy Logic and Expert Systems | 10/10 |
 
 ---
 
@@ -421,7 +421,7 @@ This repository and all linked academic content are made available under the **C
 **Institution:** [Terna Engineering College](https://ternaengg.ac.in/), Navi Mumbai  
 **University:** [University of Mumbai](https://mu.ac.in/)
 
-This repository represents a comprehensive collection of study materials, reference books, assignments, and personal preparation notes curated during my academic journey. All content has been carefully organized and documented to serve as a valuable resource for students pursuing Artificial Intelligence and Soft Computing & AISC Lab.
+This repository represents a comprehensive collection of study materials, reference books, assignments, and personal preparation notes curated during my academic journey. All content has been carefully organized and documented to serve as a valuable resource for students pursuing Artificial Intelligence and Soft Computing and Artificial Intelligence and Soft Computing Lab.
 
 **Connect:** [GitHub](https://github.com/Amey-Thakur) · [LinkedIn](https://www.linkedin.com/in/amey-thakur)
 
@@ -441,13 +441,13 @@ Special thanks to the mentors and peers whose encouragement, discussions, and su
 <div align="center">
 
   <!-- Footer Navigation -->
-  **[↑ Back to Top](#artificial-intelligence-and-soft-computing-and-artificial-intelligence-and-soft-computing-lab)**
+  [↑ Back to Top](#artificial-intelligence-and-soft-computing-and-artificial-intelligence-and-soft-computing-lab)
 
-  **[Overview](#overview)** &nbsp;·&nbsp; **[Contents](#repository-contents)** &nbsp;·&nbsp; **[Reference Books](#reference-books)** &nbsp;·&nbsp; **[Assignments](#assignments)** &nbsp;·&nbsp; **[Quizzes](#quizzes)** &nbsp;·&nbsp; **[Laboratory](#artificial-intelligence-and-soft-computing-laboratory)** &nbsp;·&nbsp; **[Case Study](#case-study)** &nbsp;·&nbsp; **[IAT](#internal-assessment-test)** &nbsp;·&nbsp; **[Semester Exam](#semester-exam)** &nbsp;·&nbsp; **[Question Papers](#question-papers)** &nbsp;·&nbsp; **[Submission Report](#submission-completion-report)** &nbsp;·&nbsp; **[Syllabus](#syllabus)** &nbsp;·&nbsp; **[Usage Guidelines](#usage-guidelines)** &nbsp;·&nbsp; **[License](#license)** &nbsp;·&nbsp; **[About](#about-this-repository)** &nbsp;·&nbsp; **[Acknowledgments](#acknowledgments)**
+  [Overview](#overview) &nbsp;·&nbsp; [Contents](#repository-contents) &nbsp;·&nbsp; [Reference Books](#reference-books) &nbsp;·&nbsp; [Assignments](#assignments) &nbsp;·&nbsp; [Quizzes](#quizzes) &nbsp;·&nbsp; [Laboratory](#artificial-intelligence-and-soft-computing-laboratory) &nbsp;·&nbsp; [Case Study](#case-study) &nbsp;·&nbsp; [Internal Assessment Test](#internal-assessment-test) &nbsp;·&nbsp; [Semester Exam](#semester-exam) &nbsp;·&nbsp; [Question Papers](#question-papers) &nbsp;·&nbsp; [Submission Report](#submission-completion-report) &nbsp;·&nbsp; [Syllabus](#syllabus) &nbsp;·&nbsp; [Usage Guidelines](#usage-guidelines) &nbsp;·&nbsp; [License](#license) &nbsp;·&nbsp; [About](#about-this-repository) &nbsp;·&nbsp; [Acknowledgments](#acknowledgments)
 
   <br>
 
-  **[AISC Lab](AISC%20Lab/README.md)**
+  🔬 **[AISC Lab](AISC%20Lab/README.md)**
 
 </div>
 
