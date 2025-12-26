@@ -3,7 +3,7 @@
      ========================================================================================= -->
 <div align="center">
 
-  # Artificial Intelligence and Soft Computing Laboratory
+  # Artificial Intelligence and Soft Computing Lab
 
   ### CSL703 · Semester VII · Computer Engineering
 
