@@ -447,7 +447,7 @@ Special thanks to the mentors and peers whose encouragement, discussions, and su
 
   <br>
 
-  🔬 **[Artificial Intelligence and Soft Computing Lab](AISC%20Lab/README.md)**
+  🔬 **[Artificial Intelligence and Soft Computing Laboratory](AISC%20Lab/README.md)**
 
 </div>
 
