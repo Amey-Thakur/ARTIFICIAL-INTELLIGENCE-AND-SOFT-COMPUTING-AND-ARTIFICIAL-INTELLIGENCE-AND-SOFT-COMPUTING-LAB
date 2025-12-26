@@ -16,7 +16,7 @@
 
   ---
 
-  **[How to Use](#how-to-use)** &nbsp;·&nbsp; **[Learning Path](#learning-path)** &nbsp;·&nbsp; **[Experiment 1](#experiment-1-problem-statement-formulation)** &nbsp;·&nbsp; **[Experiment 2](#experiment-2-prolog-programming)** &nbsp;·&nbsp; **[Experiment 3](#experiment-3-uninformed-search)** &nbsp;·&nbsp; **[Experiment 4](#experiment-4-informed-search)** &nbsp;·&nbsp; **[Experiment 5](#experiment-5-classification-problem)** &nbsp;·&nbsp; **[Experiment 6](#experiment-6-fuzzy-relations)** &nbsp;·&nbsp; **[Experiment 7](#experiment-7-fuzzy-controller)** &nbsp;·&nbsp; **[Experiment 8](#experiment-8-mcculloch-pitts-neuron)** &nbsp;·&nbsp; **[Experiment 9](#experiment-9-kohonen-som)** &nbsp;·&nbsp; **[Experiment 10](#experiment-10-case-study)**
+  [How to Use](#how-to-use) &nbsp;·&nbsp; [Learning Path](#learning-path) &nbsp;·&nbsp; [Experiment 1](#experiment-1-problem-statement-formulation) &nbsp;·&nbsp; [Experiment 2](#experiment-2-prolog-programming) &nbsp;·&nbsp; [Experiment 3](#experiment-3-uninformed-search) &nbsp;·&nbsp; [Experiment 4](#experiment-4-informed-search) &nbsp;·&nbsp; [Experiment 5](#experiment-5-classification-problem) &nbsp;·&nbsp; [Experiment 6](#experiment-6-fuzzy-relations) &nbsp;·&nbsp; [Experiment 7](#experiment-7-fuzzy-controller) &nbsp;·&nbsp; [Experiment 8](#experiment-8-mcculloch-pitts-neuron) &nbsp;·&nbsp; [Experiment 9](#experiment-9-kohonen-som) &nbsp;·&nbsp; [Experiment 10](#experiment-10-case-study)
 
 </div>
 
@@ -331,13 +331,13 @@ A hybrid Neuro-Fuzzy system developed as a case study for the Artificial Intelli
 <div align="center">
 
   <!-- Footer Navigation -->
-  **[↑ Back to Top](#artificial-intelligence-and-soft-computing-laboratory)**
+  [↑ Back to Top](#artificial-intelligence-and-soft-computing-laboratory)
 
-  **[How to Use](#how-to-use)** &nbsp;·&nbsp; **[Learning Path](#learning-path)** &nbsp;·&nbsp; **[Experiment 1](#experiment-1-problem-statement-formulation)** &nbsp;·&nbsp; **[Experiment 2](#experiment-2-prolog-programming)** &nbsp;·&nbsp; **[Experiment 3](#experiment-3-uninformed-search)** &nbsp;·&nbsp; **[Experiment 4](#experiment-4-informed-search)** &nbsp;·&nbsp; **[Experiment 5](#experiment-5-classification-problem)** &nbsp;·&nbsp; **[Experiment 6](#experiment-6-fuzzy-relations)** &nbsp;·&nbsp; **[Experiment 7](#experiment-7-fuzzy-controller)** &nbsp;·&nbsp; **[Experiment 8](#experiment-8-mcculloch-pitts-neuron)** &nbsp;·&nbsp; **[Experiment 9](#experiment-9-kohonen-som)** &nbsp;·&nbsp; **[Experiment 10](#experiment-10-case-study)**
+  [How to Use](#how-to-use) &nbsp;·&nbsp; [Learning Path](#learning-path) &nbsp;·&nbsp; [Experiment 1](#experiment-1-problem-statement-formulation) &nbsp;·&nbsp; [Experiment 2](#experiment-2-prolog-programming) &nbsp;·&nbsp; [Experiment 3](#experiment-3-uninformed-search) &nbsp;·&nbsp; [Experiment 4](#experiment-4-informed-search) &nbsp;·&nbsp; [Experiment 5](#experiment-5-classification-problem) &nbsp;·&nbsp; [Experiment 6](#experiment-6-fuzzy-relations) &nbsp;·&nbsp; [Experiment 7](#experiment-7-fuzzy-controller) &nbsp;·&nbsp; [Experiment 8](#experiment-8-mcculloch-pitts-neuron) &nbsp;·&nbsp; [Experiment 9](#experiment-9-kohonen-som) &nbsp;·&nbsp; [Experiment 10](#experiment-10-case-study)
 
   <br>
 
-  **[🏠 Back to Main Repository](../)**
+  🏠 **[Back to Main Repository](../)**
 
 </div>
 
@@ -345,7 +345,7 @@ A hybrid Neuro-Fuzzy system developed as a case study for the Artificial Intelli
 
 <div align="center">
 
-  ### [Artificial Intelligence and Soft Computing and Artificial Intelligence and Soft Computing Lab](https://github.com/Amey-Thakur/ARTIFICIAL-INTELLIGENCE-AND-SOFT-COMPUTING-AND-ARTIFICIAL-INTELLIGENCE-AND-SOFT-COMPUTING-LAB)
+  ### [Artificial Intelligence and Soft Computing and Artificial Intelligence and Soft Computing Laboratory](../)
 
   **CSL703 · Semester VII · Computer Engineering**
 
