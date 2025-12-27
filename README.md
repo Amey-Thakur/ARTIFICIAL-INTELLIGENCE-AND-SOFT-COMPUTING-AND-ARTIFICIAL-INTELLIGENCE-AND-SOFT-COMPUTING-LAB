@@ -52,7 +52,7 @@ As a computer engineer, understanding AI and soft computing is crucial for devel
 
 - **Knowledge Preservation**: To maintain organized access to comprehensive study materials beyond the classroom.
 - **Continuous Learning**: To support lifelong learning by enabling easy revisitation of fundamental concepts.
-- **Academic Documentation**: To authentically document my learning journey through Artificial Intelligence and Soft Computing and Artificial Intelligence and Soft Computing Laboratory.
+- **Academic Documentation**: To authentically document my learning journey through AISC
 - **Community Contribution**: To share these resources with students and learners who may benefit from them.
 
 All materials in this repository were gathered, organized, and documented by me during my undergraduate studies (2018-2022) as part of my coursework and exam preparation.
