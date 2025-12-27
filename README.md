@@ -297,13 +297,13 @@ A hybrid Neuro-Fuzzy system developed as a case study for the Artificial Intelli
 
 Internal assessment evaluations conducted during the course:
 
-### IAT - 1 - September 03, 2021
+### IAT - 1 · September 03, 2021
 
 | # | Resource | Description |
 |:-:|:---|:---|
 | 1 | [Answer Sheet](Internal%20Assessment%20Test/AMEY_B-50_AISC_IAT-1.pdf) | AISC Internal Assessment Test 1 Answer Sheet |
 
-### IAT - 2 - October 13, 2021
+### IAT - 2 · October 13, 2021
 
 | # | Resource | Description |
 |:-:|:---|:---|
