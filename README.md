@@ -7,7 +7,7 @@
 
   # Artificial Intelligence and Soft Computing and Artificial Intelligence and Soft Computing Lab
 
-  ### CSC703 & CSL703 · Semester VII · Computer Engineering
+  ### CSC703 and CSL703 · Semester VII · Computer Engineering
 
   [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](LICENSE)
   [![University](https://img.shields.io/badge/University-Mumbai-%23A6192E.svg)](https://mu.ac.in/)
@@ -52,7 +52,7 @@ As a computer engineer, understanding AI and soft computing is crucial for devel
 
 - **Knowledge Preservation**: To maintain organized access to comprehensive study materials beyond the classroom.
 - **Continuous Learning**: To support lifelong learning by enabling easy revisitation of fundamental concepts.
-- **Academic Documentation**: To authentically document my learning journey through AISC.
+- **Academic Documentation**: To authentically document my learning journey through AI and SC
 - **Community Contribution**: To share these resources with students and learners who may benefit from them.
 
 All materials in this repository were gathered, organized, and documented by me during my undergraduate studies (2018-2022) as part of my coursework and exam preparation.
@@ -429,7 +429,7 @@ This repository represents a comprehensive collection of study materials, refere
 
 Grateful acknowledgment to [**Karan Dhiman**](https://github.com/Karan-Dhiman) for his exceptional support and collaboration during the development of the Hybrid Neuro-Fuzzy System mini project for this course. Working alongside him was a truly enriching experience - his technical expertise in artificial neural networks, dedication to exploring soft computing paradigms, and enthusiasm for innovation turned every challenge into a meaningful learning opportunity. Our shared curiosity and collaborative efforts in integrating neural networks with fuzzy logic were essential to the project's success. Thank you, Karan, for being such an outstanding project partner and for all the knowledge and encouragement you shared along the way.
 
-Special thanks to the faculty members of the Department of Computer Engineering at Terna Engineering College for their guidance and instruction in Artificial Intelligence and Soft Computing. Their clear teaching and continued support helped develop a strong understanding of intelligent systems and soft computing paradigms.
+Grateful acknowledgment to the faculty members of the Department of Computer Engineering at Terna Engineering College for their guidance and instruction in Artificial Intelligence and Soft Computing. Their clear teaching and continued support helped develop a strong understanding of intelligent systems and soft computing paradigms.
 
 Special thanks to the mentors and peers whose encouragement, discussions, and support contributed meaningfully to this learning experience.
 
