@@ -275,7 +275,7 @@ The laboratory component (CSL703) focuses on hands-on implementation of AI algor
 A hybrid Neuro-Fuzzy system developed as a case study for the Artificial Intelligence and Soft Computing Lab. This system integrates the learning capabilities of Artificial Neural Networks with the reasoning power of Fuzzy Logic to create a robust model for pattern recognition and decision making. By combining these paradigms, the project demonstrates how to handle complex, non-linear data processing tasks effectively.
 
 > [!NOTE]
-> **Research Impact**: This project was published as a research paper in **International Journal for Research in Applied Science & Engineering Technology (IJRASET)** (Volume 9, Issue IX) and is also available as a preprint on **viXra**.
+> **Research Impact:** This project was published as a research paper in **International Journal for Research in Applied Science & Engineering Technology (IJRASET)** (Volume 9, Issue IX) and is also available as a preprint on **viXra**.
 > - [Preprint @viXra](https://vixra.org/abs/2109.0047)
 > - [Published Paper @IJRASET](https://doi.org/10.22214/ijraset.2021.37930)
 
