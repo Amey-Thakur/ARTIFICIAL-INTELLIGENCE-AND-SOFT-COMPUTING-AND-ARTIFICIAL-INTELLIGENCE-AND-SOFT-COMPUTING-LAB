@@ -52,7 +52,7 @@ As a computer engineer, understanding AI and soft computing is crucial for devel
 
 - **Knowledge Preservation**: To maintain organized access to comprehensive study materials beyond the classroom.
 - **Continuous Learning**: To support lifelong learning by enabling easy revisitation of fundamental concepts.
-- **Academic Documentation**: To authentically document my learning journey through AI and SC
+- **Academic Documentation**: To authentically document my learning journey through Artificial Intelligence and Soft Computing
 - **Community Contribution**: To share these resources with students and learners who may benefit from them.
 
 All materials in this repository were gathered, organized, and documented by me during my undergraduate studies (2018-2022) as part of my coursework and exam preparation.
@@ -364,7 +364,7 @@ Course completion documentation with exit survey:
 | # | Document | Description |
 |:-:|:---|:---|
 | 1 | [Submission Report](Submission%20Report/AMEY_B-50_AI&SC_SUBMISSION_REPORT.pdf) | Final coursework submission report |
-| 2 | [Exit Survey (Lab)](Submission%20Report/AI%20&%20SC-Lab-Exit-Survey.pdf) | Course outcome survey for AISC Lab |
+| 2 | [Exit Survey (Lab)](Submission%20Report/AI%20&%20SC-Lab-Exit-Survey.pdf) | Course outcome survey for AISC Laboratory |
 
 ---
 
