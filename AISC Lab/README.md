@@ -352,4 +352,3 @@ A hybrid Neuro-Fuzzy system developed as a case study for the Artificial Intelli
   *University of Mumbai · Curated by [Amey Thakur](https://github.com/Amey-Thakur)*
 
 </div>
-
