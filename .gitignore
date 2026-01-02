@@ -1,31 +1,27 @@
-# ALL REPOSITORIES
-# ----------------
-# General
+# Artificial Intelligence and Soft Computing - Academic Repository
+# Specialized .gitignore for AI research and scholarly archiving
+
+# OS-generated files
+[Tt]humbs.db
+[Dd]esktop.ini
 .DS_Store
-Thumbs.db
-*.swp
-*.log
-*.tmp
-*.bak
-*~
+.AppleDouble
+.LSOverride
 
-# Windows
-desktop.ini
-$RECYCLE.BIN/
-
-# VS Code
+# Editor and IDE configuration
 .vscode/
-*.code-workspace
-
-# JetBrains
 .idea/
+*.swp
+*.swo
+*~
 *.iml
+*.code-workspace
 
 # Prolog
 *.pl.bak
 *.pl.log
 
-# Python
+# Python Build Artifacts
 __pycache__/
 *.py[cod]
 *$py.class
@@ -38,7 +34,6 @@ env/
 */.ipynb_checkpoints/*
 
 # Weka / Datasets
-# Common datasets are kept, but exclude large binary outputs
 *.model
 *.arff.bak
 
@@ -50,7 +45,7 @@ env/
 ~$*.xls
 ~$*.xlsx
 
-# LaTeX (if used)
+# LaTeX / Document Artifacts
 *.aux
 *.bbl
 *.blg
@@ -60,6 +55,8 @@ env/
 *.lot
 *.out
 *.toc
+*.log
+*.synctex.gz
 
 # Archives
 *.zip
@@ -67,5 +64,13 @@ env/
 *.rar
 *.7z
 
-# Git
+# Temporary and Cache files
+*.tmp
+*.log
+.cache/
+
+# Academic build/output artifacts
+*.bak
+*.sav
+*.old
 *.orig
