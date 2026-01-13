@@ -248,7 +248,7 @@ The laboratory component (CSL703) focuses on hands-on implementation of AI algor
 
 <div align="center">
 
-  ### 🧠 [Neuro-Fuzzy: Artificial Neural Networks & Fuzzy Logic](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=0inooPgAAAAJ&citation_for_view=0inooPgAAAAJ:hqOjcs7Dif8C)
+  ### [Neuro-Fuzzy: Artificial Neural Networks & Fuzzy Logic](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=0inooPgAAAAJ&citation_for_view=0inooPgAAAAJ:hqOjcs7Dif8C)
 
   **Design and Implementation of a Neuro-Fuzzy System using Artificial Neural Networks and Fuzzy Logic**
 
@@ -261,7 +261,7 @@ The laboratory component (CSL703) focuses on hands-on implementation of AI algor
 <div align="center">
 
   #### 👥 Authors
-  | <img src="https://github.com/Amey-Thakur.png" width="150" alt="Amey Thakur"><br>[**Amey Thakur**](https://github.com/Amey-Thakur) | <img src="https://github.com/Karan-Dhiman.png" width="150" alt="Karan Dhiman"><br>[**Karan Dhiman**](https://github.com/Karan-Dhiman) |
+  | <img src="https://github.com/Amey-Thakur.png" width="150" alt="Amey Thakur"><br>[**Amey Thakur**](https://github.com/Amey-Thakur)<br>[![ORCID](https://img.shields.io/badge/ORCID-0000--0001--5644--1575-A6CE39?logo=orcid&logoColor=white)](https://orcid.org/0000-0001-5644-1575) | <img src="https://github.com/Karan-Dhiman.png" width="150" alt="Karan Dhiman"><br>[**Karan Dhiman**](https://github.com/Karan-Dhiman)<br>[![GitHub](https://img.shields.io/badge/GitHub-Karan--Dhiman-181717?logo=github&logoColor=white)](https://github.com/Karan-Dhiman) |
   | :---: | :---: |
 
 </div>
@@ -275,9 +275,10 @@ The laboratory component (CSL703) focuses on hands-on implementation of AI algor
 A hybrid Neuro-Fuzzy system developed as a case study for the Artificial Intelligence and Soft Computing Lab. This system integrates the learning capabilities of Artificial Neural Networks with the reasoning power of Fuzzy Logic to create a robust model for pattern recognition and decision making. By combining these paradigms, the project demonstrates how to handle complex, non-linear data processing tasks effectively.
 
 > [!NOTE]
-> **Research Impact:** This project was published as a research paper in **International Journal for Research in Applied Science & Engineering Technology (IJRASET)** (Volume 9, Issue IX) and is also available as a preprint on **viXra**.
+> **Research Impact & Certification:** This project was published as an academic research paper in **International Journal for Research in Applied Science & Engineering Technology (IJRASET)** (Volume 9, Issue IX) and is also available as a preprint on **viXra**. The project received an official **Publication Certificate** for its research contribution to AI and Soft Computing.
 > - [Preprint @viXra](https://vixra.org/abs/2109.0047)
 > - [Published Paper @IJRASET](https://doi.org/10.22214/ijraset.2021.37930)
+> - [Publication Certificate](Neuro-Fuzzy%20-%20Artificial%20Neural%20Networks%20%26%20Fuzzy%20Logic/IJRASET37930%20-%20Neuro-Fuzzy%20-%20Artificial%20Neural%20Networks%20%26%20Fuzzy%20Logic.pdf)
 
 ### Resources
 
