@@ -288,6 +288,7 @@ A hybrid Neuro-Fuzzy system developed as a case study for the Artificial Intelli
 | 2 | **Presentation** | Visual overview of the development lifecycle | October 22, 2021 | **09/10** | [View](AISC%20Lab/Experiment-10/AISC_EXPERIMENT_10_PPT.pdf) |
 | 3 | **Research Paper** | Neuro-Fuzzy: Artificial Neural Networks & Fuzzy Logic | September 6, 2021 | - | [View](AISC%20Lab/Experiment-10/Neuro-Fuzzy_Artificial%20Neural%20Networks_&_Fuzzy%20Logic.pdf) |
 | 4 | **ResearchGate** | Research paper available on ResearchGate | September 2021 | - | [View](https://www.researchgate.net/publication/354402722_Neuro-Fuzzy_Artificial_Neural_Networks_Fuzzy_Logic) |
+| 5 | **Publication Certificate** | Official Certificate of Publication | September 2021 | - | [View](Neuro-Fuzzy%20-%20Artificial%20Neural%20Networks%20%26%20Fuzzy%20Logic/IJRASET37930%20-%20Neuro-Fuzzy%20-%20Artificial%20Neural%20Networks%20%26%20Fuzzy%20Logic.pdf) |
 
 ---
 
