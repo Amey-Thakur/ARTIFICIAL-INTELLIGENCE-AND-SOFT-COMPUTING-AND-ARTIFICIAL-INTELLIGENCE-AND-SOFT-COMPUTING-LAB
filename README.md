@@ -282,13 +282,13 @@ A hybrid Neuro-Fuzzy system developed as a case study for the Artificial Intelli
 
 ### Resources
 
-| # | Resource | Description | Date | Marks | Link |
-|:-:|:---|:---|:-:|:-:|:-:|
-| 1 | **Case Study Report** | Detailed documentation and system design | October 22, 2021 | **09/10** | [View](AISC%20Lab/Experiment-10/AISC_EXPERIMENT_10_B-28_B-31_B-50.pdf) |
-| 2 | **Presentation** | Visual overview of the development lifecycle | October 22, 2021 | **09/10** | [View](AISC%20Lab/Experiment-10/AISC_EXPERIMENT_10_PPT.pdf) |
-| 3 | **Research Paper** | Neuro-Fuzzy: Artificial Neural Networks & Fuzzy Logic | September 6, 2021 | - | [View](AISC%20Lab/Experiment-10/Neuro-Fuzzy_Artificial%20Neural%20Networks_&_Fuzzy%20Logic.pdf) |
-| 4 | **ResearchGate** | Research paper available on ResearchGate | September 2021 | - | [View](https://www.researchgate.net/publication/354402722_Neuro-Fuzzy_Artificial_Neural_Networks_Fuzzy_Logic) |
-| 5 | **Publication Certificate** | Official Certificate of Publication | September 2021 | - | [View](Neuro-Fuzzy%20-%20Artificial%20Neural%20Networks%20%26%20Fuzzy%20Logic/IJRASET37930%20-%20Neuro-Fuzzy%20-%20Artificial%20Neural%20Networks%20%26%20Fuzzy%20Logic.pdf) |
+| # | Resource | Description | Date | Marks |
+|:-:|:---|:---|:-:|:-:|
+| 1 | [**Case Study Report**](AISC%20Lab/Experiment-10/AISC_EXPERIMENT_10_B-28_B-31_B-50.pdf) | Detailed documentation and system design | October 22, 2021 | **09/10** |
+| 2 | [**Presentation**](AISC%20Lab/Experiment-10/AISC_EXPERIMENT_10_PPT.pdf) | Visual overview of the development lifecycle | October 22, 2021 | **09/10** |
+| 3 | [**Research Paper**](AISC%20Lab/Experiment-10/Neuro-Fuzzy_Artificial%20Neural%20Networks_&_Fuzzy%20Logic.pdf) | Neuro-Fuzzy: Artificial Neural Networks & Fuzzy Logic | September 6, 2021 | - |
+| 4 | [**ResearchGate**](https://www.researchgate.net/publication/354402722_Neuro-Fuzzy_Artificial_Neural_Networks_Fuzzy_Logic) | Research paper available on ResearchGate | September 2021 | - |
+| 5 | [**Publication Certificate**](Neuro-Fuzzy%20-%20Artificial%20Neural%20Networks%20%26%20Fuzzy%20Logic/IJRASET37930%20-%20Neuro-Fuzzy%20-%20Artificial%20Neural%20Networks%20%26%20Fuzzy%20Logic.pdf) | Official Certificate of Publication | September 2021 | - |
 
 ---
 
