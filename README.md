@@ -248,7 +248,7 @@ The laboratory component (CSL703) focuses on hands-on implementation of AI algor
 
 <div align="center">
 
-  ### [Neuro-Fuzzy: Artificial Neural Networks & Fuzzy Logic](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=0inooPgAAAAJ&citation_for_view=0inooPgAAAAJ:hqOjcs7Dif8C)
+  ### 🧠 [Neuro-Fuzzy: Artificial Neural Networks & Fuzzy Logic](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=0inooPgAAAAJ&citation_for_view=0inooPgAAAAJ:hqOjcs7Dif8C)
 
   **Design and Implementation of a Neuro-Fuzzy System using Artificial Neural Networks and Fuzzy Logic**
 
@@ -260,7 +260,7 @@ The laboratory component (CSL703) focuses on hands-on implementation of AI algor
 
 <div align="center">
 
-  #### 👥 Authors
+  #### Authors
   | <img src="https://github.com/Amey-Thakur.png" width="150" alt="Amey Thakur"><br>[**Amey Thakur**](https://github.com/Amey-Thakur)<br>[![ORCID](https://img.shields.io/badge/ORCID-0000--0001--5644--1575-A6CE39?logo=orcid&logoColor=white)](https://orcid.org/0000-0001-5644-1575) | <img src="https://github.com/Karan-Dhiman.png" width="150" alt="Karan Dhiman"><br>[**Karan Dhiman**](https://github.com/Karan-Dhiman)<br>[![GitHub](https://img.shields.io/badge/GitHub-Karan--Dhiman-181717?logo=github&logoColor=white)](https://github.com/Karan-Dhiman) |
   | :---: | :---: |
 
