@@ -433,7 +433,7 @@ Grateful acknowledgment to [**Karan Dhiman**](https://github.com/Karan-Dhiman) f
 
 Grateful acknowledgment to the faculty members of the Department of Computer Engineering at Terna Engineering College for their guidance and instruction in Artificial Intelligence and Soft Computing. Their clear teaching and continued support helped develop a strong understanding of intelligent systems and soft computing paradigms.
 
-Special thanks to the mentors and peers whose encouragement, discussions, and support contributed meaningfully to this learning experience.
+Grateful acknowledgment to the mentors and peers whose encouragement, discussions, and support contributed meaningfully to this learning experience.
 
 ---
 
