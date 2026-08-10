@@ -127,7 +127,7 @@ Identify a problem statement relevant to AI and describe its PEAS Descriptors wi
 | # | Document | Description | Link |
 |:-:|:---|:---|:-:|
 | — | Lab Report (PDF) | Detailed experiment report | [View](Experiment-1/AMEY_B-50_AI&SC_EXPERIMENT-1.pdf) |
-| — | Lab Report (DOCX) | Editable report file | [Download](Experiment-1/AMEY_B-50_AI&SC_EXPERIMENT-1.docx) |
+| — | Lab Report (DOCX) | Editable report file | [Download](Experiment-1/AMEY_B-50_AI_SC_EXPERIMENT-1.docx) |
 
 ---
 
@@ -292,8 +292,8 @@ To Implement Kohonen self-organizing Map- un-supervised learning algorithm.
 <div align="center">
 
   #### Authors
-  | <img src="https://github.com/Amey-Thakur.png" width="150" alt="Amey Thakur"><br>[**Amey Thakur**](https://github.com/Amey-Thakur)<br><br>[![ORCID](https://img.shields.io/badge/ORCID-0000--0001--5644--1575-A6CE39)](https://orcid.org/0000-0001-5644-1575) | <img src="https://github.com/Karan-Dhiman.png" width="150" alt="Karan Dhiman"><br>[**Karan Dhiman**](https://github.com/Karan-Dhiman)<br><br>[![GitHub](https://img.shields.io/badge/GitHub-Karan--Dhiman-181717?logo=github&logoColor=white)](https://github.com/Karan-Dhiman) |
-  | :---: | :---: |
+| <img src="https://github.com/Amey-Thakur.png" width="150" alt="Amey Thakur"><br>[**Amey Thakur**](https://github.com/Amey-Thakur)<br><br>[![ORCID](https://img.shields.io/badge/ORCID-0000--0001--5644--1575-A6CE39)](https://orcid.org/0000-0001-5644-1575) | <img src="https://github.com/Karan-Dhiman.png" width="150" alt="Karan Dhiman"><br>[**Karan Dhiman**](https://github.com/Karan-Dhiman)<br><br>[![GitHub](https://img.shields.io/badge/GitHub-Karan--Dhiman-181717?logo=github&logoColor=white)](https://github.com/Karan-Dhiman) |
+| :---: | :---: |
 
 </div>
 
@@ -333,7 +333,7 @@ A hybrid Neuro-Fuzzy system developed as a case study for the Artificial Intelli
 <div align="center">
 
   <!-- Footer Navigation -->
-  [↑ Back to Top](#artificial-intelligence-and-soft-computing-laboratory)
+  [↑ Back to Top](#artificial-intelligence-and-soft-computing-lab)
 
   [How to Use](#how-to-use) &nbsp;·&nbsp; [Learning Path](#learning-path) &nbsp;·&nbsp; [Experiment 1](#experiment-1-problem-statement-formulation) &nbsp;·&nbsp; [Experiment 2](#experiment-2-prolog-programming) &nbsp;·&nbsp; [Experiment 3](#experiment-3-uninformed-search) &nbsp;·&nbsp; [Experiment 4](#experiment-4-informed-search) &nbsp;·&nbsp; [Experiment 5](#experiment-5-classification-problem) &nbsp;·&nbsp; [Experiment 6](#experiment-6-fuzzy-relations) &nbsp;·&nbsp; [Experiment 7](#experiment-7-fuzzy-controller) &nbsp;·&nbsp; [Experiment 8](#experiment-8-mcculloch-pitts-neuron) &nbsp;·&nbsp; [Experiment 9](#experiment-9-kohonen-som) &nbsp;·&nbsp; [Experiment 10](#experiment-10-case-study)
 
