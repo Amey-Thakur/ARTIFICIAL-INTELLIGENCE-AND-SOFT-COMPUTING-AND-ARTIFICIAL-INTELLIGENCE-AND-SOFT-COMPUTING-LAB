@@ -10,9 +10,9 @@
   ### CSC703 & CSL703 · Semester VII · Computer Engineering
 
   [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](LICENSE)
-  [![University](https://img.shields.io/badge/University-Mumbai-%23A6192E.svg)](https://mu.ac.in/)
-  [![Institution](https://img.shields.io/badge/Institution-Terna%20Engineering%20College-orange.svg)](https://ternaengg.ac.in/)
-  [![Curated by](https://img.shields.io/badge/Curated%20by-Amey%20Thakur-blue.svg)](https://github.com/Amey-Thakur)
+  [![University](https://img.shields.io/badge/University-Mumbai-A6192E.svg)](https://mu.ac.in/)
+  [![Institution](https://img.shields.io/badge/Institution-Terna%20Engineering%20College-E8710A.svg)](https://ternaengg.ac.in/)
+  [![Curated by](https://img.shields.io/badge/Curated%20by-Amey%20Thakur-0969DA.svg)](https://github.com/Amey-Thakur)
 
   **A comprehensive academic resource for Artificial Intelligence and Soft Computing (AISC) and AISC Laboratory, covering search strategies, knowledge representation, neural networks, fuzzy logic, and genetic algorithms.**
 
@@ -124,9 +124,9 @@ The laboratory component (CSL703) focuses on hands-on implementation of AI algor
 
 <div align="center">
 
-  [![Total Experiments](https://img.shields.io/badge/Total%20Experiments-10-yellowgreen.svg)](AISC%20Lab/)
-  [![Status](https://img.shields.io/badge/Status-Complete-brightgreen.svg)](AISC%20Lab/)
-  [![Language](https://img.shields.io/badge/Language-Python%20%7C%20PROLOG%20%7C%20C%20%7C%20MATLAB-orange.svg)](AISC%20Lab/)
+  [![Total Experiments](https://img.shields.io/badge/Total%20Experiments-10-3949AB.svg)](AISC%20Lab/)
+  [![Status](https://img.shields.io/badge/Status-Complete-2EA043.svg)](AISC%20Lab/)
+  [![Language](https://img.shields.io/badge/Language-Python%20%7C%20PROLOG%20%7C%20C%20%7C%20MATLAB-8250DF.svg)](AISC%20Lab/)
 
 </div>
 
@@ -253,9 +253,9 @@ The laboratory component (CSL703) focuses on hands-on implementation of AI algor
 
   **Design and Implementation of a Neuro-Fuzzy System using Artificial Neural Networks and Fuzzy Logic**
 
-  [![Project](https://img.shields.io/badge/Project-Case%20Study-purple.svg)](AISC%20Lab/Experiment-10/AISC_EXPERIMENT_10_B-28_B-31_B-50.pdf)
-  [![Stack](https://img.shields.io/badge/Stack-Python%20%7C%20MATLAB-blue.svg)](AISC%20Lab/Experiment-10/AISC_EXPERIMENT_10_B-28_B-31_B-50.pdf)
-  [![Status](https://img.shields.io/badge/Status-Completed-brightgreen.svg)](AISC%20Lab/Experiment-10/AISC_EXPERIMENT_10_B-28_B-31_B-50.pdf)
+  [![Project](https://img.shields.io/badge/Project-Case%20Study-BF3989.svg)](AISC%20Lab/Experiment-10/AISC_EXPERIMENT_10_B-28_B-31_B-50.pdf)
+  [![Stack](https://img.shields.io/badge/Stack-Python%20%7C%20MATLAB-8250DF.svg)](AISC%20Lab/Experiment-10/AISC_EXPERIMENT_10_B-28_B-31_B-50.pdf)
+  [![Status](https://img.shields.io/badge/Status-Completed-2EA043.svg)](AISC%20Lab/Experiment-10/AISC_EXPERIMENT_10_B-28_B-31_B-50.pdf)
 
 </div>
 

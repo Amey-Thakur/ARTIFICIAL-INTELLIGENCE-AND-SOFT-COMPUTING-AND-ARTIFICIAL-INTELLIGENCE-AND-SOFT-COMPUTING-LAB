@@ -7,10 +7,10 @@
 
   ### CSL703 · Semester VII · Computer Engineering
 
-  [![Curated by](https://img.shields.io/badge/Curated%20by-Amey%20Thakur-blue.svg)](https://github.com/Amey-Thakur)
-  [![Documents](https://img.shields.io/badge/Documents-10-yellowgreen.svg)](#experiment-1-problem-statement-formulation)
-  [![Language](https://img.shields.io/badge/Language-Python%20%7C%20PROLOG%20%7C%20C%20%7C%20MATLAB-orange.svg)](./)
-  [![Type](https://img.shields.io/badge/Type-PDF%20%7C%20DOCX-blueviolet.svg)](./)
+  [![Curated by](https://img.shields.io/badge/Curated%20by-Amey%20Thakur-0969DA.svg)](https://github.com/Amey-Thakur)
+  [![Documents](https://img.shields.io/badge/Documents-10-3949AB.svg)](#experiment-1-problem-statement-formulation)
+  [![Language](https://img.shields.io/badge/Language-Python%20%7C%20PROLOG%20%7C%20C%20%7C%20MATLAB-8250DF.svg)](./)
+  [![Type](https://img.shields.io/badge/Type-PDF%20%7C%20DOCX-546E7A.svg)](./)
 
   **A comprehensive collection of laboratory experiments for Artificial Intelligence and Soft Computing, covering search strategies, knowledge representation, neural networks, fuzzy logic, and genetic algorithms.**
 
@@ -283,9 +283,9 @@ To Implement Kohonen self-organizing Map- un-supervised learning algorithm.
 
   **Design and Implementation of a Neuro-Fuzzy System using Artificial Neural Networks and Fuzzy Logic**
 
-  [![Project](https://img.shields.io/badge/Project-Case%20Study-purple.svg)](Experiment-10/AISC_EXPERIMENT_10_B-28_B-31_B-50.pdf)
-  [![Stack](https://img.shields.io/badge/Stack-Python%20%7C%20MATLAB-blue.svg)](Experiment-10/AISC_EXPERIMENT_10_B-28_B-31_B-50.pdf)
-  [![Status](https://img.shields.io/badge/Status-Completed-brightgreen.svg)](Experiment-10/AISC_EXPERIMENT_10_B-28_B-31_B-50.pdf)
+  [![Project](https://img.shields.io/badge/Project-Case%20Study-BF3989.svg)](Experiment-10/AISC_EXPERIMENT_10_B-28_B-31_B-50.pdf)
+  [![Stack](https://img.shields.io/badge/Stack-Python%20%7C%20MATLAB-8250DF.svg)](Experiment-10/AISC_EXPERIMENT_10_B-28_B-31_B-50.pdf)
+  [![Status](https://img.shields.io/badge/Status-Completed-2EA043.svg)](Experiment-10/AISC_EXPERIMENT_10_B-28_B-31_B-50.pdf)
 
 </div>
 
@@ -354,3 +354,4 @@ A hybrid Neuro-Fuzzy system developed as a case study for the Artificial Intelli
   *University of Mumbai · Curated by [Amey Thakur](https://github.com/Amey-Thakur)*
 
 </div>
+
