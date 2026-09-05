@@ -1,0 +1,41 @@
+# Artificial Intelligence and Soft Computing and Artificial Intelligence and Soft Computing Lab
+
+> CSC703: Artificial Intelligence and Soft Computing [AISC] & CSL703:
+> Artificial Intelligence and Soft Computing Lab [AISC Lab] | BE Semester
+> VII | Computer Engineering
+
+Author: Amey Thakur, ORCID 0000-0001-5644-1575
+Co-author: Mega Satish, ORCID 0000-0002-1844-9557
+Institution: Terna Engineering College, University of Mumbai
+Programme: B.E. Computer Engineering, Fourth Year, Semester VII
+Course codes: CSC703, CSL703
+Licence: CC BY 4.0, attribution required
+Repository created: 29 July 2021
+Work dated: 19 January 2022
+
+## What is in this repository
+
+- AISC Lab, 105 files
+- Assignments, 6 files
+- Internal Assessment Test, 2 files
+- Neuro-Fuzzy - Artificial Neural Networks & Fuzzy Logic, 13 files
+- Question Papers, 32 files
+- Quizzes, 6 files
+- Reference Books, 25 files
+- Semester Exam, 1 file
+- Submission Report, 2 files
+- Syllabus, 2 files
+
+## Subject terms
+
+a-star-algorithm, ai, artificial-intelligence, computer-engineering,
+computer-science, engineering, fuzzy-logic, genetic-algorithms,
+machine-learning, neural-networks, neuro-fuzzy-systems, prolog,
+soft-computing, textbooks, university-of-mumbai
+
+## Where this sits
+
+- This repository: https://github.com/Amey-Thakur/ARTIFICIAL-INTELLIGENCE-AND-SOFT-COMPUTING-AND-ARTIFICIAL-INTELLIGENCE-AND-SOFT-COMPUTING-LAB
+- Degree index, every subject and project: https://github.com/Amey-Thakur/COMPUTER-ENGINEERING
+- Author: https://github.com/Amey-Thakur
+- Research notes and reflections: https://amey-thakur.github.io/

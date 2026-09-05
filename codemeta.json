@@ -1,0 +1,81 @@
+{
+    "@context": "https://doi.org/10.5063/schema/codemeta-2.0",
+    "@type": "SoftwareSourceCode",
+    "additionalType": "https://schema.org/LearningResource",
+    "name": "ARTIFICIAL-INTELLIGENCE-AND-SOFT-COMPUTING-AND-ARTIFICIAL-INTELLIGENCE-AND-SOFT-COMPUTING-LAB",
+    "description": "CSC703: Artificial Intelligence and Soft Computing [AISC] & CSL703: Artificial Intelligence and Soft Computing Lab [AISC Lab] | BE Semester VII | Computer Engineering",
+    "identifier": "ARTIFICIAL-INTELLIGENCE-AND-SOFT-COMPUTING-AND-ARTIFICIAL-INTELLIGENCE-AND-SOFT-COMPUTING-LAB",
+    "license": "https://spdx.org/licenses/CC-BY-4.0.html",
+    "author": [
+        {
+            "@type": "Person",
+            "givenName": "Amey",
+            "familyName": "Thakur",
+            "id": "https://orcid.org/0000-0001-5644-1575",
+            "affiliation": {
+                "@type": "Organization",
+                "name": "Terna Engineering College"
+            }
+        },
+        {
+            "@type": "Person",
+            "givenName": "Mega",
+            "familyName": "Satish",
+            "id": "https://orcid.org/0000-0002-1844-9557",
+            "affiliation": {
+                "@type": "Organization",
+                "name": "Terna Engineering College"
+            }
+        }
+    ],
+    "dateCreated": "2021-07-29",
+    "dateReleased": "2022-01-19",
+    "codeRepository": "https://github.com/Amey-Thakur/ARTIFICIAL-INTELLIGENCE-AND-SOFT-COMPUTING-AND-ARTIFICIAL-INTELLIGENCE-AND-SOFT-COMPUTING-LAB",
+    "isPartOf": "https://github.com/Amey-Thakur/COMPUTER-ENGINEERING",
+    "developmentStatus": "complete",
+    "applicationCategory": "Academic Course Archive",
+    "educationalLevel": "Undergraduate, Fourth Year, Semester VII",
+    "keywords": [
+        "A Star Algorithm",
+        "AI",
+        "Artificial Intelligence",
+        "Computer Engineering",
+        "Computer Science",
+        "Engineering",
+        "Fuzzy Logic",
+        "Genetic Algorithms",
+        "Machine Learning",
+        "Neural Networks",
+        "Neuro Fuzzy Systems",
+        "Prolog",
+        "Soft Computing",
+        "Textbooks",
+        "University Of Mumbai",
+        "CSC703",
+        "CSL703",
+        "AISC",
+        "AISC Lab",
+        "Artificial Intelligence and Soft Computing",
+        "Artificial Intelligence and Soft Computing Lab",
+        "University of Mumbai",
+        "Mumbai University",
+        "Terna Engineering College",
+        "Navi Mumbai",
+        "India",
+        "B.E. Computer Engineering",
+        "BE Semester VII",
+        "Semester VII",
+        "Assignments",
+        "Question Papers",
+        "Reference Books",
+        "Syllabus",
+        "CBCGS",
+        "Amey Thakur",
+        "amey",
+        "ameythakur",
+        "amey-thakur",
+        "ameyarc",
+        "Mega Satish",
+        "megasatish"
+    ]
+}

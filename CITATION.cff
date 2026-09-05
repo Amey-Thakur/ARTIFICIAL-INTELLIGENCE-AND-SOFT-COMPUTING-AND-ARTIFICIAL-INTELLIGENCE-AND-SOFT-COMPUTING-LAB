@@ -11,3 +11,7 @@ title: "ARTIFICIAL-INTELLIGENCE-AND-SOFT-COMPUTING-AND-ARTIFICIAL-INTELLIGENCE-A
 version: 1.0.0
 date-released: 2022-01-19
 url: "https://github.com/Amey-Thakur/ARTIFICIAL-INTELLIGENCE-AND-SOFT-COMPUTING-AND-ARTIFICIAL-INTELLIGENCE-AND-SOFT-COMPUTING-LAB"
+identifiers:
+  - type: other
+    value: "2021-07-29"
+    description: "Date this repository was created on GitHub."
